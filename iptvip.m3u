@@ -9,6 +9,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
 #EXTGRP:test
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="setanta-sports" group-title="test", Сетанта Спорт 1 HD
 #EXTGRP:test
 https://tv.movielab.pro/942/video.m3u8?token=9a5c4d7b4026225c399c1ca674373ea9a2283de7-dd25674d13c13f6c6ed8e2c3ac3faa29-1739347760-1739261360
 #EXTGRP:Информационные
