@@ -794,6 +794,134 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV RU Rock HD.png" group-title="Музыкальные",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",9 ВОЛНА
+http://185.46.48.18:80/asvtv/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Radio Love FM
+http://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",PowerTürk Slow
+http://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",PowerTürk Taptaze
+http://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",PowerTürk Akustik
+http://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mezzo.png" group-title="Музыкальные",Mezzo
+http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Music Box Russia.png" group-title="Музыкальные",Music Box Russia
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шансон ТВ.png" group-title="Музыкальные",Шансон ТВ
+http://178.212.71.253:8000/play/76/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge HD
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bridge TV.png" group-title="Музыкальные",Bridge TV
+http://178.212.71.253:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Rock
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",BridgeTV Hit
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV classic
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ Music.png" group-title="Музыкальные",ТНТ Music
+http://178.212.71.253:8000/play/137/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU.TV.png" group-title="Музыкальные",RU.TV
+http://178.212.71.253:8000/play/38/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Музыкальные",МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Жара.png" group-title="Музыкальные",Жара
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Музыкальные",1HD
+http://178.212.71.253:8000/play/60/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV.png" group-title="Музыкальные",RU TV
+http://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Музыкальные",1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/о2тв.png" group-title="Музыкальные",о2тв
+http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/music.png" group-title="Музыкальные",Folk Klub
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",Óčко Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",Óčko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыкальные",2 Radio
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Prokop TV Rock HD
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/73620/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe HD
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",2TV HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43762/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",M2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/49446/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray CMusic HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/92319/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Óčko Gold
+http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Afrobeats
+http://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",2 Radio
+http://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV.png" group-title="Музыкальные",RU TV
+http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MIXM TB
+http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1 group-title="Музыкальные",M1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/39426/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray iConcerts HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52264/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",Tavo TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/69285/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",4TV.LT HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/73657/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",Banovina TV
+http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
+#EXTINF:-1 group-title="Музыкальные",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Power TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Live
+http://31.148.48.15/La-Minor_TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Mузыка Первого
+http://188.113.190.15/109/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Lя Mинор
+http://188.113.190.15/324/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Новое Радио TV HD
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Deluxe Rap
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Спорт",Sky Sports LaLiga
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sky Sports Bundesliga
+http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="aiva" group-title="Музыкальные", AIVA
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="classic-music" group-title="Музыкальные", Classic Music HD
