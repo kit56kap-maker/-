@@ -3,76 +3,46 @@
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="Эфирные",Первый канал HD
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png" group-title="Эфирные",Россия 1 HD
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
+#EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png" group-title="Эфирные", РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Эфирные", Первый информационный Беларусь
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D
+#EXTINF:-1 group-title="Эфирные" tvg-id="Спас" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244",Спас (Краснодарский Край)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_SPAS_KRR/variant.m3u8
 #EXTINF:-1 tvg-id="belarus1" group-title="Эфирные", Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Эфирные", Неизвестная россия HD
-https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="kongresstv" group-title="Эфирные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
-https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
-#EXTINF:-1 tvg-id="ntv-pravo" group-title="Эфирные", НТВ Право
-https://stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1--NTV_Pravo_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль
-https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
-#EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
-https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="mir" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
-https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="tvcentr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр HD
-https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные", 5 канал Россия
-https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="Эфирные",Домашний HD
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Эфирные", Россия Культура
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
-http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
-#EXTINF:-1 group-title="Эфирные",Зал суда
-http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 group-title="Эфирные",Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" tvg-id="krasnaya-linia" group-title="Эфирные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="Эфирные",CGTN-Русский
-http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="otr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr" group-title="Эфирные", ОТР HD
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/417.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир Белогорья
@@ -360,7 +330,7 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/pls
 #EXTINF:-1 group-title="Познавательные",Приключения HD
 http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
-http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
+http://178.212.71.253:8000/play/63/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
@@ -1659,3 +1629,4 @@ https://stream-msk-05.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/p
 https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" tvg-id="no_epg_radio" group-title="Радио", Новое Радио
 https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
+
