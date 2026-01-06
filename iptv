@@ -227,7 +227,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 
-
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Новости", Первый информационный Беларусь
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D
 #EXTINF:-1 group-title="Новости",Первый Крымский
@@ -392,7 +391,6 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! FHD
