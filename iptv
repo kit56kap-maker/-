@@ -515,9 +515,9 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Спортивные",Наш спорт 29
 https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports LaLiga
+#EXTINF:-1 group-title="Спортивные",Sky Sports LaLiga
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Bundesliga
+#EXTINF:-1 group-title="Спортивные",Sky Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 
