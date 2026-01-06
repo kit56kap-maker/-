@@ -287,8 +287,6 @@ http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="Детские",Карусель
 http://178.212.71.253:8000/play/8/index.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель HD
-https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 group-title="Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Cолнце
@@ -307,12 +305,8 @@ http://178.212.71.253:8000/play/47/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/Disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:-1 group-title="Детские",Детский мир
-http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детские",Мамонтëнок ТВ
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",Мульт HD
@@ -327,30 +321,16 @@ http://31.148.48.15/Rizhiy/index.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Уникум
-http://188.113.190.15/41/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские",Радость Моя
 http://178.212.71.253:8000/play/46/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультимузыка.png" group-title="Детские",Мультимузыка
 http://178.212.71.253:8000/play/116/index.m3u8
-#EXTINF:-1 group-title="Детские", Солнце
-http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
 #EXTINF:-1 group-title="Детские",Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:-1 tvg-id="mama" group-title="Детские", Мама
-http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
-#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские", 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Детские", 2x2 HD
-https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
-#EXTINF:-1 tvg-logo="ducktv" group-title="Детские", Duck TV HD
-http://87.99.87.203:2007/channel/n72e6dc42/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
-#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group-title="Детские", Baby Time
-http://ott.server-iptv.live/508/video.m3u8?token=S53B863B2A
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png" group-title="Детские", Пингвин Лоло
