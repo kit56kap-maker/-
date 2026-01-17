@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 08.01.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 17.01.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Эфирные",Первый канал HD
-http://95.66.188.74/PerviyHD/mono.m3u8
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 HD.png" group-title="Эфирные",Россия 1 HD
@@ -39,8 +39,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Эфирные",ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Эфирные",ТНТ4 Int
@@ -285,22 +283,10 @@ http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусельь
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="Детские",Карусель
-http://178.212.71.253:8000/play/8/index.m3u8
+
 #EXTINF:-1 group-title="Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Детские",Cолнце
-http://178.212.71.253:8000/play/103/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
-http://178.212.71.253:8000/play/86/index.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids
-http://178.212.71.253:8000/play/112/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Детские",Ani
-http://178.212.71.253:8000/play/74/index.m3u8
-#EXTINF:-1 group-title="Детские",Детский Мир
-http://178.212.71.253:8000/play/52/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские",Мульт
-http://178.212.71.253:8000/play/47/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнце
 http://tv.streams.baikal-telecom.net:8080/Disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
@@ -323,10 +309,6 @@ http://109.94.1.3:8080/132/index.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детские",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Детские",Радость Моя
-http://178.212.71.253:8000/play/46/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультимузыка.png" group-title="Детские",Мультимузыка
-http://178.212.71.253:8000/play/116/index.m3u8
 #EXTINF:-1 group-title="Детские",Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Детские", 2x2
@@ -476,13 +458,11 @@ http://tv.streams.baikal-telecom.net:8080/Disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://195.26.83.96:7006/play/a00z/index.m3u8
 
 
-#EXTINF:-1 group-title="Спортивные",Матч Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDI2IDg6MTI6MTYgQU0maGFzaF92YWx1ZT16MWpzWGZseEJiODNCMkJDVTN0Ykp3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
