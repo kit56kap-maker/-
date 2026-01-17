@@ -283,11 +283,8 @@ http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусельь
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
 #EXTINF:-1 group-title="Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
-
 #EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
@@ -324,27 +321,14 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="Детские",Рыжийй
 http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Лёва HD.png" group-title="Детские",Лёва HD
-http://158.160.149.81:8080/8062/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cartoonito.png" group-title="Детские",Cartoonito
-http://45.159.74.22/Channel_120/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids HD.png" group-title="Детские",СТС Kids HD
-http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nickelodeon.png" group-title="Детские",Nickelodeon
-http://178.134.1.158:8081/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nick Jr.png" group-title="Детские",Nick Jr
-http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Детское кино Int
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
 http://176.118.197.101/1HD/index.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
@@ -372,41 +356,21 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-logo="http://i.imgur.com/SYt6BZP.png" group-title="Детские",Mult i muzyka
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-logo="http://i.imgur.com/w8iE8dV.png" group-title="Детские",Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru" tvg-logo="http://i.postimg.cc/DZpc0rK0/radostmoya.png" group-title="Детские",Radost Moya
 http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="http://i.imgur.com/acrU2IE.png" group-title="Детские",Ryzhiy
 http://31148.rafail1982.uz/Rizhiy/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-logo="http://i.imgur.com/o9kLpAL.png" group-title="Детские",STS kids
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-logo="http://i.imgur.com/c0zZUR1.png" group-title="Детские",SuperGeroi
-http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 tvg-id="Multimania.ru" tvg-logo="http://i.imgur.com/abh8ZBA.png" group-title="Детские",Multimania
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-logo="http://i.imgur.com/HCefxaK.png" group-title="Детские",Solnce
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тамыр.png" group-title="Детские",Тамыр
-http://195.18.23.20:8000/play/2/index.m3u8
-#EXTINF:-1 group-title="Детские",Cолнце
-http://178.212.71.253:8000/play/103/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Детские",Мама
-http://178.212.71.253:8000/play/86/index.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids
-http://178.212.71.253:8000/play/112/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Детские",Ani
-http://178.212.71.253:8000/play/74/index.m3u8
-#EXTINF:-1 group-title="Детские",Детский Мир
-http://178.212.71.253:8000/play/52/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="Детские",Карусель
-http://178.212.71.253:8000/play/8/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png" group-title="Детские",Мульт
-http://178.212.71.253:8000/play/47/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнце
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнцее
 http://tv.streams.baikal-telecom.net:8080/Disney/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
+#EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kidss
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 
