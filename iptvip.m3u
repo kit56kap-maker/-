@@ -375,8 +375,7 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
 http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDI2IDg6MTI6MTYgQU0maGFzaF92YWx1ZT16MWpzWGZseEJiODNCMkJDVTN0Ykp3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 group-title="Спортивные",Конный мир HD
@@ -405,72 +404,37 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
 #EXTINF:-1 group-title="Спортивные",Sky Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1 HD.png" group-title="Спортивные",Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://46.151.151.250:9114
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2 HD.png" group-title="Спортивные",Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://46.151.151.250:9111
+
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3 HD.png" group-title="Спортивные",Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1.png" group-title="Спортивные",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.85.109.219:7000/play/a067
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD*
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.85.109.219:7000/play/a068
+
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 Georgia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 Georgia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные",Матч!
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Окко.Спорт 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Q Sport Kyrgyzstan HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.85.109.219:7000/play/a05u
-#EXTINF:-1 group-title="Спортивные",Canal+ Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Bein Sports XTRA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="Спортивные",Fox Sports️
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="Спортивные",Fox Sports️
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="Спортивные",Fox Sports️
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/fox504au
 #EXTINF:-1 group-title="Спортивные",Fox Sports️
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/fox505au
 #EXTINF:-1 group-title="Спортивные",Fox Sports️
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/fox506au
-#EXTINF:-1 group-title="Спортивные",Fox Sports️
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://7pal.short.gy/fox507au
-#EXTINF:-1 group-title="Спортивные",Polsat Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://185.236.229.62:9981/play/a07q
-#EXTINF:-1 group-title="Спортивные",Polsat Sport 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://185.236.229.62:9981/play/a06m
+
+
+
 #EXTINF:-1 group-title="Спортивные",Turkmenistan Sport
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://alpha.tv.online.tm/hls/ch004.m3u8
@@ -480,267 +444,100 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="Спортивные",NHL Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD.png" group-title="Спортивные",Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport LIVE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://195.64.140.147:10114/114
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://45.11.139.43:8555/extsport/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Старт.png" group-title="Спортивные",Старт
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
-#EXTINF:-1 group-title="Спортивные",Старт Триумф
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://mhd128.iptv2022.com/p/_PhMnvfn3_QWzRJEM808OQ,1760562024/streaming/start-triumf/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Страна.png" group-title="Спортивные",Матч! Страна
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://178.212.71.253:8000/play/51/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="Спортивные",Матч! Арена
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png" group-title="Спортивные",Матч! Планета
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 HD.png" group-title="Спортивные",Беларусь 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 HD.png" group-title="Спортивные",Беларусь 5HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Беларусь 5 Интернет
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хоккей ТВ HD.png" group-title="Спортивные",Хоккей ТВ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Астрахань Спорт
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Танцуй!.png" group-title="Спортивные",Танцуй!
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://178.212.71.253:8000/play/81/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные",СТАРТ ТРИУМФ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/CH_START_TRIUMF.m3u8
-#EXTINF:-1 group-title="Спортивные",СТАРТ ТРИУМФ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="Спортивные",СТАРТ ТРИУМФ НD
 http://a0925677.xsph.ru/hls/CH_START_TRIUMFHD720.m3u8
-#EXTINF:-1 tvg-id="ETV.ru" tvg-logo="http://i.imgur.com/FbPFS8u.png" group-title="Спортивные",E TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Football.ru@SD" tvg-logo="http://i.imgur.com/pEuaZVx.png" group-title="Спортивные",Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31148.rafail1982.uz/Futbol_HD/index.m3u8
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="http://i.imgur.com/pwxT0ON.png" group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://194.143.148.28:8080/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="http://i.imgur.com/udTzwzu.png" group-title="Спортивные",Match! Arena
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://194.143.148.28:8080/MatchArena/index.m3u8
+
+
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="http://i.imgur.com/QhdxNsB.png" group-title="Спортивные",MMA-TV.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="StartTriumf.ru" tvg-logo="http://i.imgur.com/L9jTieL.png" group-title="Спортивные",Start Triumf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:-1 tvg-id="VitalBasketball.ru" tvg-logo="http://i.imgur.com/E67CY0d.png" group-title="Спортивные",Vital Basketball
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vslive.pw/stream/48684/index.m3u8
+
 #EXTINF:-1 tvg-id="VitalDrive.ru" tvg-logo="http://i.imgur.com/XoR9zLh.png" group-title="Спортивные",Vital Drive
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-id="VitalFootball.ru" tvg-logo="http://i.imgur.com/wXf8nNf.png" group-title="Спортивные",Vital Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vslive.pw/stream/48682/index.m3u8
-#EXTINF:-1 tvg-id="VitalPlus.ru" tvg-logo="http://i.imgur.com/7NTLpDt.png" group-title="Спортивные",Vital Plus
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vslive.pw/stream/48683/index.m3u8
-#EXTINF:-1 tvg-id="VitalSport.ru" tvg-logo="http://i.imgur.com/2Kinxqb.png" group-title="Спортивные",Vital Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vslive.pw/stream/48527/index.m3u8
-#EXTINF:-1 tvg-id="VitalTennis.ru" tvg-logo="http://i.imgur.com/RoCOuhJ.png" group-title="Спортивные",Vital Tennis
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vslive.pw/stream/48685/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные",SETANTA SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",SETANTA SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные",SETANTA SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://94.43.1.138:8081/setanta1/index.m3u8
-#EXTINF:-1 group-title="Спортивные",SETANTA SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://141.95.55.143/CH1147/index.m3u8
-#EXTINF:-1 group-title="Спортивные",SETANTA SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спортивные",СЕТАНТА+ UA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://141.95.55.143/CH7609/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Megogo Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31483/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Megogo Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31505/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Megogo Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31504/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Megogo Футбол 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31613/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Megogo Футбол 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31614/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные",Setanta Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.85.109.219:7000/play/a067
-#EXTINF:-1 group-title="Спортивные",Setanta Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.85.109.219:7000/play/a068
-#EXTINF:-1 group-title="Спортивные",Dazn 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Dazn 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Dazn 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Dazn 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Dazn 5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-#EXTINF:-1 group-title="Спортивные",DAZN PRO LEAGUE 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://185.236.230.212:9982/play/a09q
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="Спортивные",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="Спортивные",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Stars HD.png" group-title="Спортивные",Trace Sport Stars HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1274/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="Спортивные",Viju+ Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1229/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png" group-title="Спортивные",Матч! Планета
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1243/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL HD.png" group-title="Спортивные",KHL HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1422/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Спортивные",OnlineTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime HD.png" group-title="Спортивные",KHL Prime HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://radio.tvs.by:8088/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Trace Sport Stars HD.png" group-title="Спортивные",Trace Sport Stars HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1274/tracks-v1a2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="Спортивные",Viju+ Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/1229/tracks-v1a2a1/mono.m3u8
+
 #EXTINF:-1 group-title="Спортивные",97.XSPORT+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.122.99.7:7000/ch117/video.m3u8
 #EXTINF:-1 group-title="Спортивные",FIGHTBOX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.122.99.7:7000/ch118/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Ovacion TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные",PROSTO DRIVE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.122.99.7:7000/ch326/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Спортивные",Red Bull TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Спортивные",Viasat Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.122.99.7:7000/ch282/video.m3u8
 #EXTINF:-1 group-title="Спортивные",XStream
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://176.122.99.7:7000/ch313/video.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://188.113.190.15/39/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Старт.png" group-title="Спортивные",Старт
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Red Bull HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://178.124.179.122:8088/KHL_HD/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные",Dubai Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Dubai Sports 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Billiards+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTINF:-1 group-title="Спортивные",Hoop TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 #EXTINF:-1 group-title="Спортивные",Homerun TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
 #EXTINF:-1 group-title="Спортивные",Automotion
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Спортивные",Fight TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="Спортивные",Goal TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 group-title="Спортивные",Kung Fu+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="Спортивные",Viju+ Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.134.1.158:8081/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Спортивные",КХЛ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Спортивные",KHL Prime
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://194.143.148.28:8080/KHL_HD/mpegts
@@ -2319,6 +2116,1574 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+#EXTINF:-1 tvg-rec="3" group-title="Кино",VF Сериалы Турции
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9123/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Вестерн
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31553/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Король и Шут
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31555/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TV 1000 World Kino
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31447/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TV 1000 World Kino HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31448/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TV 1000 World Kino HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31449/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX СССР 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Kinozakaz Premiere 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31547/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Premiere+ 4K HDR
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31549/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Любимое Кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20014/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FX HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19216/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Боевики HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20172/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Ужасы HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Трейлеры HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/30149/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Мосфильм. Золотая коллекция HD (+4)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17022/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viju TV1000 Action HD (+2)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16031/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viju TV1000 Русское HD (+2)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16030/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viju TV1000 HD (+2)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16029/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Romance HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2037/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Suspense HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2049/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Sumiko HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2163/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KinoLiving
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16018/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Лавстори HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2034/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Советская киноклассика HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2146/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju TV1000 Новелла HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2002/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Феникс плюс Кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16154/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FX Life Baltic EE
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16006/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",VHS-ка HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viasat Kino Megahit HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14141/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viasat Serial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17056/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",.black HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",.sci-fi HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Scream HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Shot TV HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20022/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",О!Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20023/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",4Ever Drama HD UA
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kino 1 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17044/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",NOW Series HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FilmZone HD LV
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20024/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FilmZone+ HD EE
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20025/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Shot TV orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9347/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",VF Счастливы Вместе
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9242/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Бесстыжие
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10075/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Владимир Высоцкий
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10066/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Два с половиной человека
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Новогодний
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17035/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Ёлки
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14222/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF New Year
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15522/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF С новым годом!
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15524/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Гарри Поттер
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14230/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Секс в большом городе
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14224/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Карточный домик
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14221/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Disney Movie
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15010/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Теория большого взрыва
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15009/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Timeless Dizi Channel
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TV Rus
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14022/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",CineMan Premium
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20112/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",FX Life
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9232/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FX Life HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14003/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Family Guy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19414/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM OldSchool HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19413/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FAN HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16021/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia Hit HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6010/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Ultra HD Cinema 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/4000/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Comedy Central HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6000/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кино UHD 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5004/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Сериал UHD 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5005/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Остросюжетное HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/904/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Премиальное FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2410/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Дом Кино Премиум HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/911/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Дом Кино Премиум HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5082/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Про Любовь HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2430/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наш Кинопоказ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2434/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Блокбастер HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2436/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Хит HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2438/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кинопоказ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2439/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наше Мужское HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2440/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Камеди HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2441/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju+ Serial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2443/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Романтичное HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5053/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Комедийное HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/912/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Душевное кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/914/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Наше HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/915/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наше любимое HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2106/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинопремьера HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/224/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киноужас HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2056/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский роман HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2076/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский Иллюзион HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2114/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Дорама HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2131/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кино ТВ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2097/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Amedia Premium HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/229/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Hollywood HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/209/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Bollywood HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/239/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju+ Premiere HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/202/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju+ Premiere HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5079/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju+ Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/200/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju+ Comedy HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5080/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju+ Megahit HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/201/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju+ Megahit HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5081/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Epic Drama
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/1048/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",День Победы HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5054/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Победа HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5052/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Победа
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2003/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Amedia 2 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2046/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju TV1000 Русское
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/101/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",.sci-fi
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/110/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Киномикс
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/509/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Киносемья
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/125/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Родное Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/126/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju TV1000 Action
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/131/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинохит
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/516/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Amedia 2
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/510/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Наше Новое Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/517/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",TV XXI
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/525/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинокомедия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/145/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Индийское Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/146/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Киносерия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/148/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Русский Иллюзион
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/547/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Еврокино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/549/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинеко
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/550/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Сапфир
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/553/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Дом Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/154/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Amedia 1
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/554/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Amedia Premium
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/555/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Amedia Hit
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/556/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Viju TV1000
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/132/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Мужское Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/164/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Hollywood
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/557/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",.red
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/559/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",2x2
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/702/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",.black
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/708/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Русский бестселлер
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/905/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Русский роман
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/906/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Русский детектив
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/907/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Любимое Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/722/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Киносвидание
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/728/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кино ТВ
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/732/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Русская Комедия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/733/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",FAN
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/734/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",НТВ Хит
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/741/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",НТВ Сериал
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/744/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",НСТ
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/726/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Индия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/1001/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",FilmBox ArtHouse
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/1071/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Дорама
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/1066/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Мир Сериала
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/856/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Ретро
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2018/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Иллюзион+
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2038/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Феникс плюс Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2039/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",.red HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2062/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киноман
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2121/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Cinema
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/5051/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Comedy Central
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/157/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 1
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2568/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 2
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2569/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 3
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2570/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 4
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2571/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 5
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2572/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 6
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2573/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 7
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2574/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 8
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2575/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 9
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2576/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 10
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2577/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 11
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2578/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Зал 12
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2579/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Шокирующее HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6299/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju TV1000 Action HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6386/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju TV1000 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6387/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viju TV1000 Русское HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6388/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Сапфир HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6389/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Мосфильм. Золотая коллекция
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6392/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Trash HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/6396/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Шокирующее HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9004/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Комедийное HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9005/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Hollywood HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9017/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",FX HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9018/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кинопремьера HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9020/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia Premium HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9022/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киноужас HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9033/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",.red HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9035/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский роман HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9041/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Остросюжетное HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9044/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наше HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9046/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кино ТВ HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9051/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju TV1000 Action HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9057/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju TV1000 HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9058/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viju TV1000 Русское HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9059/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наше любимое HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9062/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia 1 HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9069/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia Hit HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9070/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Еврокино HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9078/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Иллюзион+ HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9079/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский Иллюзион HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9080/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наш Кинопоказ HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9086/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Блокбастер HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9087/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наше Мужское HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9088/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Про Любовь HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9089/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Хит HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9090/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Камеди HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9091/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кинопоказ HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9092/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",.sci-fi orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9125/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киномикс orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9126/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Родное Кино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9127/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кинохит orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9128/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Amedia 2 orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9129/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",TV XXI orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9130/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Индийское Кино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9131/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киносерия orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9132/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский Иллюзион orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9133/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Еврокино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9134/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кинеко HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9135/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Дом Кино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9136/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia 1 orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9137/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Мужское Кино HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9138/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",2x2 orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9139/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",.black orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9140/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский бестселлер orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9141/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский детектив orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9142/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Любимое Кино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9143/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русская Комедия orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9144/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",FAN orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9145/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",НТВ Хит orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9146/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",НТВ Сериал orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9147/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",НСТ orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9148/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Индия orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9149/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",FilmBox ArtHouse orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9150/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Мир Сериала orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9151/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Ретро orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9152/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Феникс плюс Кино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9153/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киноман orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9154/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Мосфильм. Золотая коллекция orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9156/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Дорама HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9224/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Bollywood HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9225/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Победа orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9226/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Viju TV1000 Русское orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9227/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киносемья HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9228/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju TV1000 Action orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9229/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Наше Новое Кино orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9230/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кинокомедия orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9231/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia Premium orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9233/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Amedia Hit orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9234/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju TV1000 orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9235/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Hollywood orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9236/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",.red orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9237/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Киносвидание orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9238/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Дорама orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9239/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Русский роман orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9240/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Иллюзион+ orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9241/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Кино ТВ orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9244/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Viju+ Serial HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/9245/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Премиальное HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7222/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Киносемья HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7244/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Киносвидание HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7245/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Страшное HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7247/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинокомедия HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7248/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Киномикс HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7249/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинохит HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7250/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KinoJam 1 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7260/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KinoJam 2 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7261/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Мосфильм. Золотая коллекция HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/7347/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Adventure
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10000/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Anime
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10001/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Cartoon
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10002/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Comedy
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10003/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Family
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10004/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Fantasy
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10005/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Melodrama
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10006/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Mystic
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10007/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Ужасы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10008/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF VHS MIX
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10009/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Ужасы VHS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10010/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Премьера
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10051/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Premiere
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10052/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Классика
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10053/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Classic
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10054/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Комедия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10055/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Катастрофы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10080/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Marvel
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10081/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Военные
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10082/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Наша победа
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10083/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Мосфильм
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10084/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Фильмы СССР
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10085/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Мультфильмы СССР
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10086/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",VF Боевик
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10087/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Премиальное HD 50
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Душевное кино HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10042/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Премиальное HD orig
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10044/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Мужское Кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10045/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Flix Snip
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10060/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Backus TV Dark HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/10061/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино",Shot TV
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/526/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11004/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Top
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11005/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Action
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11006/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Thriller
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11007/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Мелодрама
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11008/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Marvel
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11009/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Ужасы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11010/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Комедия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11011/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan VHS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11012/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan РуКино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11013/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",CineMan Сваты
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11014/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Катастрофы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15106/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Ментовские войны
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16063/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan ПёС + Лихач
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16064/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Лесник
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16065/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan MiniSeries
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19437/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Кинозал Premiere 1 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11015/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Кинозал Premiere 2 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11016/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Кинозал Premiere 3 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11017/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU СССР HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11026/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Action HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11027/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Catastrophe HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11028/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Cinema HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11029/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Cinema+ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11030/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Comedy HDR
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11031/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Fantastic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11032/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU FilMystic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11033/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU History HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11034/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Kinorating HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11037/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Marvel HDR
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11038/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Premiere HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11039/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Romantic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11040/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Russian HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11041/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU VHS HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11042/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Media HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11043/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Stars HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11044/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Ultra 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11045/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU RuSerial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11046/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Сваты HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11047/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Criminal HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11048/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Premiere Ultra 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15023/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Media HD OLD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15024/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Marvel HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15025/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15026/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Reality HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16082/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Reality OLD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16083/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Survival HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Survival OLD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Cosmo HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU TruMotion HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17054/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Romantic OLD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18052/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Backus TV Original HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11049/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",BEST Films HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11050/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Lost HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11053/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Sky2000 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11054/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",The X-Files
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11055/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинозал! VHS HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11059/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинозал! Интерны ТВ
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11060/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинозал! СССР
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11061/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинозал! Сваты
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11062/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинозал! Универ ТВ
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11063/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Кинозал! ХИТ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11064/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Космо HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11065/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Страх HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11069/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Фантастика HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11070/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Юнит HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11071/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Premiere HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11094/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Premium HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11095/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",РуКино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11096/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Victory HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11097/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Paradox HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11098/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Thriller HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11099/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Paradise HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11100/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",Serial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11101/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино",USSR
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VHS HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15000/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VB VHS Classic
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19429/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Кино 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11114/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Сериал 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11115/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF TOP Series
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11116/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Art house
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11119/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Detective
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11120/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Fantastic
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11121/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Оскар
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/11122/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TOP Великолепный Век HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13001/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TOP 80 S HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13002/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TOP BUDO HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13003/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TOP Cinema HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TOP USSR HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",TOP MIX HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM 007 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13009/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Love HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13010/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM NewFilm 1 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13011/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM NewFilm 2 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13012/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM NewFilm 3 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13013/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM NewFilm RU HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13014/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Rock HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13015/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Tom and Jerry HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13016/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM UFO HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR 1941-1945 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13018/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR Комедия HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR Мультфильм HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR Сказки HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR Драма HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13022/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM World Hits HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13023/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Агата Кристи HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13024/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Грайндхаус HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13025/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Honey HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13026/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Боевик Classic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13027/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Боевик HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13028/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Вестерн HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13029/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Воронины HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13031/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Затмение HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13032/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM История HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13033/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Катастрофа HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13034/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Квартирник HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13035/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Киберпанк HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13036/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Комедия Classic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13037/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Комедия HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13038/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Криминал HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13039/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Крутые 90-е HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13040/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Кунг-Фу HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13041/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Lesson HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13042/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Smile HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13043/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Мифология HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13044/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Нуар HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13045/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Ситком 2.0 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13046/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Погружение HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13047/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Приключения HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13048/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Полицейский с Рублёвки HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13049/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Роскино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Сваты HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Ситком HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13052/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Скорость HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13053/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Спорт HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13054/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Стивен Кинг HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13055/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Супергерои HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13056/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Flip UHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13057/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Триллер HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13058/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Ужастик HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR Приключения HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Синематограф HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13061/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Фантастика HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Фобия HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13063/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Walt Disney HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13064/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Live Planet HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13095/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM USSR Детектив HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Семейный 1 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13097/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Семейный 2 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13098/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Ужасы HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13099/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Ужасы Classic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14128/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Celebrity HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16084/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Classic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16085/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Драма HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Сваты
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13080/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Солдаты
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13081/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Тайны следствия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13082/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Воронины
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13083/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Универ
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13084/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Series
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13085/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF След
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Сериал
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13087/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Мыльные оперы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13088/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Thriller
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13089/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Индия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13090/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF История
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13091/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Comics
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13092/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Криминал
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13093/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Клиника
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/13094/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Луи де Фюнес
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17000/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Чернобыль
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17001/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF The X-Files
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17002/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Сверхъестественное
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17003/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Леонид Гайдай
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Американская история ужасов
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Друзья
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF СашаТаня
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17008/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Джеки Чан
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17009/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Наша Раша
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17010/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Привет из 90х
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17011/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Эльдар Рязанов
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17012/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Универ новая общага
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17013/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Ходячие мертвецы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17014/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Реальные пацаны
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17015/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Доктор Хаус
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17016/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Без цензуры
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Городок
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18097/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Comedy Woman
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18101/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Игра престолов
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18119/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Одесская киностудия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18120/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Ленфильм
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18121/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Киностудия им. Горького
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18122/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Рижская киностудия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18123/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Свердловская киностудия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18124/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Беларусьфильм
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18125/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF Netflix
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19427/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VF HBO
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19428/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Channel HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14134/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Crime HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14136/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Horror HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14137/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Serial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15140/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Sitcom HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15141/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z! Smile HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15142/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Akudji TV HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14161/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Grand
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14171/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV VHS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14172/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Русские Фильмы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14174/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Советские Фильмы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV New Кино
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14177/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Трагичное
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14219/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Забавное
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14234/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Ковбойское
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14235/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Best
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14236/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Adrenaline
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15105/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Thriller
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15168/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Oblivion
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15509/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Adventure
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15510/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16153/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Мелодрама
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19434/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Советские Фильмы 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Netflix
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20163/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Disney
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20164/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Yosso TV Best 60 FPS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20165/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Citrus Comedy
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16151/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Citrus Inquest
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16152/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Citrus History
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18139/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14209/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Fantastic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14210/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV History HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14211/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Hit HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Horror HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14213/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Kids HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14214/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Marvel HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14215/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV New HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14216/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Russian HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14217/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV СССР HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV VHS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14225/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Ходячие мертвецы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14226/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Сериал
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14227/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Dosug TV Сваты
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14228/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Твое ТВ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14229/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH SERIES HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14240/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH HEROES HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH EPOCH HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14243/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH FRESH HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14244/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH MIX 3D
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14246/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH SPIRIT HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/14249/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH FUTURE HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15103/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH ADULT HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15166/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH RUSSIAN HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH NOIR HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16061/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH FRESH HDR
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH ЧБУ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16142/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH MIX 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17025/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH VHS UHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17058/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH UHD HDR
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH ORIG HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19310/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH LO FI HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19312/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH BRAIN HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19404/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",SKY HIGH ANIME HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19405/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty DC FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15087/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Ужасы 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15088/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Триллер 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15089/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Марвел FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15090/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Короткометражное FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15091/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Мелодрамы FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15095/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Боевики FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Кино Микс 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15110/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Симпсоны FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15111/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Сваты FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15164/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty SouthPark FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16053/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Комедии FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16054/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Сериалы FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16055/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Аниме FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17029/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Кино ENG 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Мульт ENG 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17061/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Кино UKR 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18045/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty РусФильм 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18046/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Индия 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18160/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Куб 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18161/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Семейный 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Турк Фильм 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19303/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Сказки FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19304/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty МиМ FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19306/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Союз 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Легенда 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19308/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Netflix 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19402/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Фан FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19403/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Скорая Помощь
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15100/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Симпсоны
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15101/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MS Prisons HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15137/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MS Toons HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/15138/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MS Magic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16143/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MS Young Blood HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16147/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MS Animated HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17024/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Премьера Трейлеры
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16009/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Видеокассета VHS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16049/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Citrus Cartoon
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Citrus Marvel
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Cinema
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19287/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Kids
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19288/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Comedy
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19289/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Premiere
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19290/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Family
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19291/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Rating
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19292/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh VHS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19293/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Fantastic
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19294/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Series
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19295/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Horror
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19296/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Adventure
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19297/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Romantic
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19298/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Russian
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19299/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Thriller
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19300/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Fresh Soviet
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Cinema HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16078/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/16080/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI History HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18047/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Premium HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18048/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Russian HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18049/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Fantastic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI VHS HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18173/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Thriller HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18174/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI СССР HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Family HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18176/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Retro HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18177/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Киносерия FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19400/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Horror FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Action FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Drama FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20053/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Fantasy FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20054/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Media HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17064/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Oscar HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17065/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Frozen HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Criminal HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17067/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Modern HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/17068/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",START Air HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18036/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VB Российские Сериалы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18043/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Thriller HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18055/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18057/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Russian HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18058/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Mystic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Premiere HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18117/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Action HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18118/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Drama HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18150/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Karate HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18061/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic VHS HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18063/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Thriller HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18065/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Action HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Galaxy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18067/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Horror HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18068/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Family HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18170/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Love HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18171/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кино 1 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18069/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кино 2 HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18070/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кино 1 International
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18071/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Военное кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18072/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Детское кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18073/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Детское кино International
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18074/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 1
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 2
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18127/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 3
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18128/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 4
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18129/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 5
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 6
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18131/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 7
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18132/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 8
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18133/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 9
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18134/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 10
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 11
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18136/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал 12
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18137/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Criminal
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18140/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV History
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18142/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Comedy
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18143/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Fantazy
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18144/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Horror
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18145/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Cinema Best
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18147/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Music
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/18148/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Serial
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19271/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Netflix
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19272/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Docu
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19314/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Cinema 60 fps
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19315/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Вторая Мировая
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19316/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Сказки СССР
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19317/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Киносерия HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19229/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Наше Новое Кино HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19231/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Cinema HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19233/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Franchise HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19274/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Hybrid HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19275/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Anime HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19276/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Gangster HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19277/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Oscar HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19278/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Memory HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19279/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX M.Serial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19280/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Serial HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19281/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Game HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19284/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Spy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19285/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Travel HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19418/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Western HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19419/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Zombie HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19420/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Cyber HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19421/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Club FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19319/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Simpsons UA
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19395/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Insomnia HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19398/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV UA
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19399/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MYTV
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19407/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MYTV 2
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19408/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MYTV 3
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19411/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MYTV HIT
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19410/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Citrus Live HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19436/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Планктон FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20140/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Adventure HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20141/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Ghost HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20154/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Stories HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20155/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Fantasy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20156/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Premiere 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20157/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Remast 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Mayday HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20159/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty XX Век 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20173/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VB Назад в СССР HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VB Спецназ-Диверсант HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20176/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Netflix HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20177/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",DetectiveJam HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20209/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",FamilyJam HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20210/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KION Хит HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20211/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Cobra Comedy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Cobra Detektiv HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20213/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Cobra Melodrama HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20214/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Cobra Triller HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20215/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Family HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20216/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye History HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20217/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Western HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Drive HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20219/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Eye Cyber HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",MM Кинофестиваль HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31621/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VB Сваты HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31624/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Глухарь + Карпов
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31626/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Интерны
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31627/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Универ
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31628/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan Фитнес
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31629/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Magic Russian HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31630/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Millennium HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31631/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Marvel HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31632/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Franchise HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31634/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Relax HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31636/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS 60FPS
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31637/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS Киноплёнка
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31638/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS Киносерия
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31640/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS Premiere
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31641/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS Страшное
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31642/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS СССР
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",VeleS Movie Hits
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31644/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Kinoshka Ukraine HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31647/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Apocalypse HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31655/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Remast+ 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Serial 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31657/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Russia 90s HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31658/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Мульт UKR FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31659/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Кино UKR FHD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31660/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Дрим Воркс 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31661/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Криминал 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31663/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Аванпост 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31664/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Liberty Сериалы 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31665/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Cinema 4K
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31666/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV New Films HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31667/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Kung Fu
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31668/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Show HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31669/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Cobra Drama HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31673/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Prokop TV Кулинар
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31683/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Thriller HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31693/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Action HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31694/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Adventure HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31698/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Detective HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31699/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Drama HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31700/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Family HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31701/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Fantastic HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31702/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Fantasy HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31703/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Russian HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31704/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Z!Fun HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31706/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",HORROR HD (тест)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31708/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Байки из склепа
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31711/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Громовы
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31712/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Коломбо
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31713/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",КИНОДРОМ HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31714/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Кинозал! Bond 007
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31715/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Однажды в милиции
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31717/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Ольга HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31718/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",Репка HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31719/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",СТРАХ FHD (2.0)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31720/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",ФАНТАСТИКА FHD (2.0)
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31722/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино",KLI Новинки HD
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31633/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CHD-TV RU Rock HD.png" group-title="Музыкальные",CHD-TV RU Rock HD
