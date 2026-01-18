@@ -1137,7 +1137,7 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
 
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
-http://178.212.71.253:8000/play/63/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
