@@ -916,8 +916,17 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="Познавательные",Nat Geo Wild HD
+http://188.237.47.212:6005 
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
 http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еда.png" group-title="Познавательные",Еда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:-1 group-title="Internet42 LLC", Здоровое ТВ
+http://176.118.197.125/Zdorovoe-TV/index.m3u8
+
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="360-int" group-title="Познавательные", 360° Международный HD
