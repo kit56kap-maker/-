@@ -914,6 +914,9 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg" group-title="Развлекательные",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="Познавательные",Nat Geo Wild HD
@@ -1126,6 +1129,286 @@ http://tv.streams.baikal-telecom.net:8080/RT_DOC/index.m3u8
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные", лекторий DОСТОЕВСКИЙй
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор HD.png" group-title="Познавательные",Доктор HD
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикий HD
+https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еда.png" group-title="Познавательные",Еда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородная Жизнь.png" group-title="Познавательные",Загородная Жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Открытый мир.png" group-title="Познавательные",Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Поехали!.png" group-title="Познавательные",Поехали!
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телепутешествия.png" group-title="Познавательные",Телепутешествия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
+#EXTINF:-1 group-title="Познавательные",Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Тонус
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
+#EXTINF:-1 group-title="Познавательные",Первый вегетарианский
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion Channel.png" group-title="Познавательные",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Познавательные",РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый космический HD.png" group-title="Познавательные",Первый космический HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные",История
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="Познавательные",Наука 2.0 HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
+#EXTINF:-1 group-title="Познавательные",Техно 24
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия HD.png" group-title="Познавательные",Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/В мире животных HD.png" group-title="Познавательные",В мире животных HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:-1 group-title="Познавательные",Арсенал
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet HD.png" group-title="Познавательные",Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="Познавательные",Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="Познавательные",Nat Geo Wild HD
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="Познавательные",ПРОДВИЖЕНИЕ
+http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1 group-title="Познавательные",СОЮЗ HD
+http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sVc8cFt.png" group-title="Познавательные",Auto Plus
+http://31148.rafail1982.uz/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XxJBLt4.png" group-title="Познавательные",EGE TV
+http://194.143.148.28:8080/RT_DOC/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gxCYAwH.png" group-title="Познавательные",FoodTime
+http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tKgmhxh.png" group-title="Познавательные",HDL
+http://31148.rafail1982.uz/HD_Life/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eEjPail.png" group-title="Познавательные",Istoriya
+http://31148.rafail1982.uz/Istoriya/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X6otbK0.png" group-title="Познавательные",Konniy mir
+http://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7jxZnuS.png" group-title="Познавательные",Kukhnya TV
+http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://smotret.tv/images/kulinar-tv.webp" group-title="Познавательные",Kulinar TV
+http://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qU9ohQu.png" group-title="Познавательные",Leomax 24
+http://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/r485aZL.png" group-title="Познавательные",Magnat
+http://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dYj3XDa.png" group-title="Познавательные",Nano HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZZxzueO.png" group-title="Познавательные",Nauka
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EMmGnjV.png" group-title="Познавательные",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1H3h1HL.png" group-title="Познавательные",Telecafe
+http://31148.rafail1982.uz/Telekafe/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZxUjCpF.png" group-title="Познавательные",TERRA
+http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IcWtXCZ.png" group-title="Познавательные",Yuvelirochka
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eXJm1n3.png" group-title="Познавательные",Teleputeshestviya
+http://31148.rafail1982.uz/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Камин
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="Познавательные",Пейзаж
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="Познавательные",Space Stream
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Познавательные",Про Факт
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="Познавательные",Зоо
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00598.jpg" group-title="Познавательные",Свет вокруг
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="Познавательные",Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg" group-title="Познавательные",Горная долина
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="Познавательные",Просто Украина
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="Познавательные",Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="Познавательные",Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Познавательные",Avia Stream
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="Познавательные",Катастрофы
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="Познавательные",ЭКО система
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="Познавательные",Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="Познавательные",Аквариум
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="Познавательные",Комната релакс
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="Познавательные",Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="Познавательные",Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00500.jpg" group-title="Познавательные",Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00503.jpg" group-title="Познавательные",Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00504.jpg" group-title="Познавательные",Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00505.jpg" group-title="Познавательные",Пляж
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00508.jpg" group-title="Познавательные",Тропики
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="Познавательные",Река
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="Познавательные",Джунгли
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00514.jpg" group-title="Познавательные",Горы
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00515.jpg" group-title="Познавательные",Озеро
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="Познавательные",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00533.jpg" group-title="Познавательные",Бассейн
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="Познавательные",Флора
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="Познавательные",Сад
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="Познавательные",Железная дорога
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Парк
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",лекторий DОСТОЕВСКИЙ
+http://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Познавательные",RTG TV
+http://195.26.83.96:7007/play/a00n/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные",Живая Планета
+http://31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зоо ТВ.png" group-title="Познавательные",Зоо ТВ
+http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные",История
+http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="Познавательные",Доктор
+http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Время.png" group-title="Познавательные",Время
+http://31.148.48.15/Vremya/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс.png" group-title="Познавательные",Авто Плюс
+http://31.148.48.15/Avto_Plus/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Познавательные",МузСоюз
+http://dmitry-tv.ddns.net/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 group-title="Познавательные",TBN BALTIA
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 group-title="Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Stingray Naturescape
+http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 group-title="Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet.png" group-title="Познавательные" tvg-id="295",Animal Planet
+http://31.148.48.15/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy.png" group-title="Познавательные",Galaxy
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Tastemade
+http://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",The Young Turks
+http://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 group-title="Познавательные",Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="Познавательные",SPORT | EDGE Sport
+http://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Univer TV HD.png" group-title="Познавательные",Univer TV HD
+http://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 group-title="Познавательные",English Class
+http://141.95.55.143/CH4039/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Точка ТВ
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG TV
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Познавательные",HDL
+http://188.113.190.15/330/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://188.113.190.15/219/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://188.113.190.15/56/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://188.113.190.15/32/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Nature
+http://188.113.190.15/28/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоопарк
+http://188.113.190.15/46/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Terra
+http://188.113.190.15/78/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure
+http://188.113.190.15/106/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://188.113.190.15/54/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",T24
+http://188.113.190.15/40/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Мужской
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Fashion&LifeStyle HD
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Fashion TV HD
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Food Time HD
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Познавательные",МузСоюз
+http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Познавательные",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Познавательные",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",ZOO Stream
+http://176.122.99.7:7000/ch319/video.m3u8?secret=7va3b5tb
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",X-Stream
+http://176.122.99.7:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Большая Азия HD.png" group-title="Познавательные",Большая Азия HD
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Trace Sport Stars
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Релакс
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",WORLD HD
+http://185.57.68.33/232/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/edu2.png" group-title="Познавательные",Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 
 #EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
