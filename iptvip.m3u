@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 20.01.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 27.01.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+#EXTINF:-1 group-title="ИНФО" tvg-logo="https://pic.rutube.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg" ,AQUARIUM SD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Эфирные",Первый канал HD
-http://176.118.197.101/1HD/index.m3u8
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=EszZooOOUFArpEr5fxA-9g&e=2069025305&scheme=https
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 HD.png" group-title="Эфирные",Россия 1 HD
@@ -372,11 +374,354 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="Детские" tvg-id="2na2"  tvg-logo="http://rafail1982.uz/logo/2x2.png" ,2x2
+http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Детские" tvg-id="2na2" ,2x2
+http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="2na2" ,2x2
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="Детские" tvg-id="2na2" ,  2x2
+http://193.25.8.59:8000/2x2
+#EXTINF:-1 group-title="Детские" tvg-id="2na2" ,2x2
+http://31.148.48.15:80/2x2/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 group-title="Детские"  tvg-id="ani" ,Ani
+http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://185.46.16.239:8000/Ani
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://31148.rafail1982.uz/Ani/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://31.148.48.15:80/Ani/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://31.148.48.15/Ani/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
+http://31.148.48.15:80/Ani/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="baby-tv" ,Baby TV
+http://84.54.128.52:9090/play/3001/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics" ,Cartoon Classics
+http://193.25.8.59:8000/Avto24
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics"  tvg-logo="http://1lot.tv/ch/9665.png" ,Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics"  tvg-logo="http://1lot.tv/ch/9665.png" ,Cartoon Classic
+http://146.120.14.239:3001/play/a08h
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang" ,Cartoonito SD
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv" ,Duck TV
+http://84.54.128.52:9090/play/3002/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv"  tvg-logo="https://i.imgur.com/gRFQ35W.png" ,Duck TV
+http://146.120.14.239:3001/play/a075
+#EXTINF:-1 group-title="Детские" tvg-id="ducktv" ,Duck TV SD
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 group-title="Детские" tvg-id="gulli-girl"   tvg-name="Gulli girl",Gulli Girl
+http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="tiji"   tvg-name="Tiji",Tiji
+http://45.145.32.13:20440/tiji/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="tiji" ,TiJi
+http://193.27.209.122/tiji/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki" ,В гостях у сказки
+http://146.120.14.239:3001/play/a078
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki"   $ExtFilter="SUZTVFREE",В гостях у сказки
+http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki"   $ExtFilter="SUZTVFREE",В гостях у сказкиᴴᴰ
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 group-title="Детские" tvg-id="detsky-mir" ,Детский Мир
+http://178.212.71.253:8002/play/a00v/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="detsky-mir" ,Детский Мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 group-title="Детские" tvg-id="detsky-mir" ,Детский Мир
+http://193.25.8.59:8005/detmir
+#EXTINF:-1 group-title="Детские" tvg-id="detsky-mir" ,Детский Мир
+http://146.120.14.239:3001/play/a0fc
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://5.188.221.43:8080/play/karusel
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,  Карусель
+http://193.25.8.59:8000/karusel
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://89.232.68.194:8080/karusel/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel"   tvg-name="Карусель",Карусель
+http://45.145.32.13:20440/karusel/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://31.148.48.15/Karusel_HD/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel"   tvg-name="Карусель",Карусель
+http://77.232.131.211/Karusel/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://185.46.16.239:8000/Karusel
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel"  tvg-logo="http://1lot.tv/ch/822.png" ,Карусель FD
+https://streaming.skynetconnect.online/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel-int"  tvg-logo="http://1lot.tv/ch/822.png" ,Карусель FD
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel-int"  tvg-logo="http://1lot.tv/ch/822.png" ,Карусель Int. FD
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel-int"  tvg-logo="http://1lot.tv/ch/822.png" ,Карусель Int. SD
+http://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mama" ,Мама
+http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mama" ,Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mama" ,Мама
+http://31.148.48.15:80/Mama/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="mama" ,Мама
+http://31.148.48.15/Mama/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Детские" tvg-id="mama" ,Мама
+http://31.148.48.15:80/Mama/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult"   $ExtFilter="SUZTVFREE",Мульт
+http://86.57.209.210/Mult/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт
+http://4.59.210.197:8815/udp/127.0.0.1:6006
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт
+http://31.148.48.15/Mult/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт
+http://31.148.48.15:80/Mult/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт
+http://31.148.48.15:80/Mult/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мульт SD
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мультᴴᴰ
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мультᴴᴰ
+http://31.148.48.15:80/Mult_HD/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мультᴴᴰ
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мультᴴᴰ
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mult" ,Мультᴴᴰ
+https://livetv.mylifeisgood.net.ru/channels/multhd.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania"   $ExtFilter="SUZTVFREE",Мультиландия
+http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
+#EXTINF:-1  tvg-id="multimania" ,Мультиландия
+http://31.148.48.15:80/Multilandiya/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania" ,Мультиландия
+http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimuzyka" ,Мульт и Музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimuzyka" ,Мульт и Музыка
+http://77.106.252.178:4022/udp/233.33.210.171:5050
+#EXTINF:-1 group-title="Детские" tvg-id="multimuzyka" ,Мульт и Музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimuzyka" ,Мульт и Музыка
+http://31.148.48.15:80/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimuzyka" ,Мульт и Музыка
+https://streamer3.connectto.com/372/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="o_" ,О!
+http://146.120.14.239:3001/play/a07l
+#EXTINF:-1 group-title="Детские" tvg-id="ryzhy"  tvg-logo="https://iptvx.one/picons/ryzhy.png" ,Рыжий
+http://31148.rafail1982.uz/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ryzhy"  tvg-logo="https://iptvx.one/picons/ryzhy.png" ,Рыжий
+http://31.148.48.15:80/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ryzhy" ,Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" ,СТС Kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" ,СТС Kids
+http://178.124.153.123:44400/stskids
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" ,СТС Kids
+http://146.120.14.239:3001/play/a0ob
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" ,СТС Kidsᴴᴰ
+http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" ,СТС Kidsᴴᴰ
+http://31.148.48.15:80/STS_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv"  tvg-logo="http://1lot.tv/ch/6546.png" ,Смайл ТВ SD
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" ,Солнце
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" ,Солнце
+http://217.114.191.150/Solnce/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" ,Солнце FD
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="solnce"  tvg-logo="http://1lot.tv/ch/1312.png" ,СОЛНЦЕ FD
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="super" ,Суббота!
+http://31.148.48.15:80/Super/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="super" ,Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="super" ,Суббота!
+http://217.114.191.150/Subbota/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="malysh"   tvg-name="Супергерои",СуперГерои
+http://86.57.209.210/Malish/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="malysh" ,Супергерои
+https://streamer3.connectto.com/374/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="malysh" ,СуперГерои
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="malysh" ,СуперГерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Детские" tvg-id="malysh" ,СуперГерои
+http://158.101.222.193:88/georgia_play.php?id=malysh
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" , Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://31.148.48.15:80/Detskiy/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://31.148.48.15:80/Detskiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://185.46.16.239:8000/Detskiy
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://31148.rafail1982.uz/Detskiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://146.120.14.239:3001/play/a084
+#EXTINF:-1 group-title="Детские" tvg-id="detsky" ,Уникум
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" , Мамонтёнок
+http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="pingvin-lolo" ,Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="pingvin-lolo"   tvg-name="Пингвин Лоло",Пингвин Лоло
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://img.catcast.tv/uploads/02102025/logos/49655-68de26fa1df20.png"   tvg-name="Futurama",Futurama SD
+rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://polinka.top/uploads/posts/2023-06/1686658317_polinka-top-p-griffini-kartinki-krasivo-10.jpg"   tvg-name="ГРИФФИНЫ", ГРИФФИНЫ SD
+rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13"   tvg-name="РИК И МОРТИ",РИК И МОРТИ SD
+rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://i.pinimg.com/736x/d3/40/24/d340245fc3e3230a5b52c5ed50ed50f8.jpg"   tvg-name="РОЖДЕСТВЕНСКИЕ СИМПСОНЫ",СИМПСОНЫ SD
+rtmp://vkvsd272.okcdn.ru/playback/10991322803032?stkn=MpeesOFpyCYvXeAyRln0s-gliMU_CCDefCrl0idSApxiLwDobMdyvuPmseSYEgWYLTj7BBxT9-A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png"   tvg-name="ЮЖНЫЙ ПАРК", ЮЖНЫЙ ПАРК SD
+rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/db58a366849511.Y3JvcCwxMzQ4LDEwNTUsMCww.png" ,Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Детские" ,Fox Kids
+http://foxkids-online.ru/hls/test.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://sun1-18.userapi.com/impg/3wTKbWOkV40EusaPbjXEDyi6UeHh1BkBbcobyA/LcdG8FnorVw.jpg?size=320x180&quality=95&sign=581d7a81262031a49b0af97e9659b062&c_uniq_tag=G27jnOh4kGwgfio3IEIblHNg8CUJKNC7KhJcbWxAfqA&type=video_thumb"   tvg-name="Детский 0+",VK Детский 0+ SD
+rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://sun1-55.userapi.com/impg/KJT4FluspgwcXkWOnIBaDEzqTjniK8RxUoi3XQ/h0bSMWyPVUo.jpg?size=320x180&quality=95&sign=03dd9196a2dd8614691ab26ae9eb71a0&c_uniq_tag=oyxwBVop7HfYzGp7xvlkDSHV2QaSvafOzc-SKlc4hDE&type=video_thumb"   tvg-name="Детский 6+",VK Детский 6+ SD
+rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb"   tvg-name="Мульт Развивайка",VK Мульт Развивайка SD
+rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://sun1-23.userapi.com/impg/mVa_OLifmP3Z-5gCnes6fClYqxzPs2Dcgvp0Pg/vG_1N5EyT6g.jpg?size=320x180&quality=95&sign=71ec439cc40e0ff80cd29f3ff0e56390&c_uniq_tag=OhvA9ZA_B_sWh7JprfV0yndNfiEQAHQ-EfDAvLPAG7U&type=video_thumb"   tvg-name="Новогодний мультпарад",VK  Новогодний мультпарадᴴᴰ
+rtmp://vkvsd194.okcdn.ru/playback/10206499842947?stkn=2l0U_JYEs5SCqJN7FV3dWV4k8KcDrOjg4XlidIFtdfWdkFiX2qQL1QkoNTaDGjSHXcTarVrZvjY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500"   tvg-name="Ключайка",Ключайка HD
+https://river-3-330.rtbcdn.ru/stream/genetta-511.ost.rutube.ru/YYC605B8EOxye_wGpOAMxw/1768310993/ed497bdb28846536f3928849f8f7e469/1080p_stream.m3u8
+#EXTINF:-1  group-title="Детские" tvg-name="JTX Online",JTX Online HD
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://veranzo.ru/other/icons/Детское Кино.png" ,ARM TOON TV SD
+http://185.57.68.33/236/mpegts
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1727353764&croped=1&mh=140&mw=140" ,Toonz SD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/191a3da9-e7b4-4ab9-acda-dd450534c28e/2.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="tooku"  tvg-logo="https://iptvx.one/picons/tooku.png" ,ТООКУᴴᴰ
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="shayantv" ,ШАЯН
+http://dmitry-tv.ddns.net/hls/region/CH_SHAYAN_KZN.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="shayantv"  tvg-logo="http://1lot.tv/ch/1117.png" ,ШАЯН
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="shayantv"  tvg-logo="http://1lot.tv/ch/1117.png" ,ШАЯНᴴᴰ
+https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="shayantv"  tvg-logo="http://1lot.tv/ch/1117.png" ,ШАЯНᴴᴰ
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="shayantv"  tvg-logo="http://1lot.tv/ch/1117.png" ,ШАЯНᴴᴰ
+http://dmitry-tv.ddns.net/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" ,Чип и Дейлᴴᴰ
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" ,CHD TVᴴᴰ
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/25ZZQrv/resize-2024-10-02-T073428-673.png" ,Радио Kids FM SD
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_music"  tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" ,Радио Kids SD
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://adindex.ru/publication/opinion/marketing/311091/img/2023-03-03_16-23-46.png"   $ExtFilter="колобок",Маша и Медведь [EN]
+https://glb.bozztv.com/glb/ushba78/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/8025.png" ,Маша и Медведь
+https://glb.bozztv.com/glb/ushba79/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/8115.png" ,ЕРАЛАШ SD
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/8115.png" ,ЕРАЛАШ SD
+https://rpn3.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="2na2" ,2x2
+http://tat.rafail1982.uz:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://tat.rafail1982.uz:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Детские", Мамонтёнок
+http://dijital.rafail1982.uz/hls/MamonRu/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="pingvin-lolo" ,Пингвин Лоло
+http://dijital.rafail1982.uz/hls/pingvinru/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" ,Карусель
+http://dijital.rafail1982.uz/hls/Karusel/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania" ,Мультимания
+http://dijital.rafail1982.uz/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="solnce"  tvg-logo="http://rafail1982.uz/logo/Солнце.png" ,Солнце
+http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="detsky"  tvg-logo="http://rafail1982.uz/logo/Уникум.png" ,Уникум
+http://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1  group-title="Детские" tvg-name="Disney Онлайн", Disney Онлайн SD
+rtmp://vkvsd162.okcdn.ru/playback/10379532053422?stkn=W1ab90cV2dhEdmVK-IgaaEfk-nZG1eYdaZv5lLd9kS7baWXq5somrsMKai84PhVZW4Z4JdRr_zQ&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://i.pinimg.com/736x/5a/44/8f/5a448f18a0d67d14fa8059fe533db32c.jpg"   tvg-name="АМЕРИКАНСКИЙ ПАПАША",АМЕРИКАНСКИЙ ПАПАША SD
+rtmp://vkvsd159.okcdn.ru/playback/9788012243768?stkn=y2I8ctxfmmJ0UuOx6X8yYWWy9hpKfdS4v8-o7EJ-a7ifD75t2akMVWRH04ZnOdjbIb-ZMiXbFgc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://goodgame.ru/files/avatars/av_1681149_U75H.jpg"   tvg-name="FoxKids_Exclusive", FoxKids Exclusive HD
+rtmp://vkvsd280.okcdn.ru/playback/9991722773377?stkn=hmylb7upyRkhCt0Sc6WIHN6IP_ZSBHmGZnMAYvInN9pB2hLuhw22V702_IUODRYJuKEh_nxYinY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://headicon.trovo.live/user/3u37ybqaaaaabj4rygfr7nmlda.jpeg"   tvg-name="Multiki",Multiki HD
+https://liveplay.trovo.live/live/73846_117192669_117192669_1080pv2.flv?bizid=73846&txSecret=57524159b97b0647050ad22cd18713ea&txTime=697598cd&_bmlj_t=Chxva0NQVkRuV2FXNWR6cHRtbFlpdkYrWG95NlU9EiQ4YmIzYWExNy02N2QxLTQzMzItYTlhYi02YjBkZWJhOGFjMTIaHjExNzE5MjY2OV8xMTcxOTI2NjlfMTc2ODcwOTcwOSCds7TLBiiz8vA3MiE3Mzg0Nl8xMTcxOTI2NjlfMTE3MTkyNjY5XzEwODBwdjI4iCdCDDg5LjI0NC45MS45OUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTA3NzMxNjYwODI2MDEwMjExkAEE&playScene=innerSite&pvid=885012684825122319&_f_=1768757673187
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"   tvg-name="NikNik-TV",NikNik.TV SD
+rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_cinema"  tvg-logo="https://goodgame.ru/files/avatars/av_1669916_vf8h.jpg"   tvg-name="retromult",Retromult SD
+rtmp://vkvsd181.okcdn.ru/playback/9095387753249?stkn=9QYompqh6WaegO7paI2Zrflo1MY_FAyEjQj2v7QLE-g6Lp4LLhAeSzzrZYpmMqBrRymI7yXcKBE&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500"   tvg-name="Ключайка",Ключайка HD
+https://river-3-330.rtbcdn.ru/stream/genetta-512.ost.rutube.ru/kpOQMgtTmE3WBxrOMUKVhA/1769581004/ed497bdb28846536f3928849f8f7e469/1080p_stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd" ,Капитан Фантастика HD
+https://tinyurl.com/45x3xrpm/chid292/mpegts
+#EXTINF:-1 group-title="Детские" tvg-id="detskoe-kino"  tvg-logo="https://iptvx.one/picons/detskoe-kino.png" ,Детское Кино SD
+https://tinyurl.com/roma-123/186/mpegts
+#EXTINF:-1group-title="Детские"  tvg-id="sovmultf"  tvg-logo="https://iptvx.one/picons/sovmultf.png" ,Советские мультфильмы HD
+https://tinyurl.com/roma-123/185/mpegts
+#EXTINF:-1 group-title="Детские" tvg-id="multsezon"  tvg-logo="https://iptvx.one/picons/multsezon.png" ,МультСезон HD
+https://tinyurl.com/roma-123/184/mpegts
+#EXTINF:-1  tvg-id="baby-time" ,Baby Time
+https://tinyurl.com/roma-123/50/mpegts
+#EXTINF:-1  tvg-id="ani"   $ExtFilter="SUZTV",Ani
+http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8?token=default?token=test
+#EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId"   $ExtFilter="SUZTV",like Gecko)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,МАМОНТЕНОК
+https://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="pingvin-lolo" ,ПИНГВИН ЛОЛО
+https://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",JETIX
+https://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="sovmultf" , СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+http://176.56.50.150:9990/udp/224.0.224.195:1234
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" ,Маша и Медведь (Eng)
+https://live21.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" ,Маша и Медведь
+https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki"   audio-track="rus", В гостях у сказки
+http://178.163.2.144:4022/udp/234.0.0.248:2000
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics"   audio-track="rus", Cartoon Classics
+http://178.163.2.144:4022/udp/234.0.0.238:2000
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang"   audio-track="rus", Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="jimjam"   audio-track="rus", JimJam
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru"   audio-track="rus", Nickelodeon
+https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер  
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDI2IDg6MTI6MTYgQU0maGFzaF92YWx1ZT16MWpzWGZseEJiODNCMkJDVTN0Ykp3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
+http://tat.rafail1982.uz:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 group-title="Спортивные",Конный мир HD
@@ -1139,6 +1484,58 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
 http://158.101.222.193:88/georgia_play.php?id=24techno
+
+#EXTINF:-1  tvg-id="dorama" group-title="Познавательные"  audio-track="rus", Дорама
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1  tvg-id="illuzion-plus" group-title="Познавательные"  audio-track="rus", Иллюзион+
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:-1  tvg-id="kinosat" group-title="Познавательные"  audio-track="rus", Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1  tvg-id="lubimoe-kino"  group-title="Познавательные" audio-track="rus", Любимое кино
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1  tvg-id="fox" group-title="Познавательные"  audio-track="rus", FX
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные"  audio-track="rus", ТВ21
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1  tvg-id="sapfir"  group-title="Познавательные" audio-track="rus", Сапфир
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000" group-title="Познавательные"  audio-track="rus", viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1  tvg-id="plan-b" group-title="Познавательные"  audio-track="rus", Plan_B
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1  tvg-id="start-air" group-title="Познавательные"  audio-track="rus", Start Air
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1  tvg-id="start-world" group-title="Познавательные"  audio-track="rus", Start World
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1  tvg-id="flixsnip" group-title="Познавательные"  audio-track="rus", FlixSnip
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1  tvg-id="foxlife" group-title="Познавательные"  audio-track="rus", FX Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-comedy" group-title="Познавательные"  audio-track="rus", viju+ Comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-megahit" group-title="Познавательные"  audio-track="rus", viju+ Megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action" group-title="Познавательные"  audio-track="rus", viju TV1000 action
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1  tvg-id="glazami-turista" group-title="Познавательные"  audio-track="rus", Глазами туриста
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1  tvg-id="voprosy-i-otvety" group-title="Познавательные"  audio-track="rus", Вопросы и ответы
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1  tvg-id="discovery-channel" group-title="Познавательные"  audio-track="rus", Discovery
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1  group-title="Познавательные" audio-track="rus", National Geographic Wild
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1  tvg-id="big-planet" group-title="Познавательные"  audio-track="rus", Big Planet
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:-1  tvg-id="animal-planet-eu" group-title="Познавательные"  audio-track="rus", Animal Planet
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1  tvg-id="terra-ru"  group-title="Познавательные" audio-track="rus", Terra
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1  tvg-id="eda-hd-int" group-title="Познавательные"  audio-track="rus", Еда Премиум Международный
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1  tvg-id="nasha-tema" group-title="Познавательные"  audio-track="rus", Наша тема
+http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
