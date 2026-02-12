@@ -373,6 +373,10 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1  group-title="Спортивные" tvg-name="Disney Онлайн", Disney Онлайн SD
 http://vkvsd162.okcdn.ru/playback/10379532053422?stkn=W1ab90cV2dhEdmVK-IgaaEfk-nZG1eYdaZv5lLd9kS7baWXq5somrsMKai84PhVZW4Z4JdRr_zQ&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
+#EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c07bebc6bb25d79ec5394a9e94c077726f6a4f5dc2f7c248cd615c5187878e3e262acf697b98ab84f0d51b4c2ac8c/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч!  Премьер  
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"} 
+https://mhd116.iptv2022.com/p/s90ULxsLKaFKbFGg2L4Vig,1770930026/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
