@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 11.02.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 12.02.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://pic.rutube.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg" ,t.me/tviptviptv инфо группа
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
@@ -497,11 +497,15 @@ http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru"   audio-track="rus", Nickelodeon
 https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i124.fastpic.org/big/2024/0928/72/aa8187ae0b48f61549ed9807c9a1d172.png" group-title="Детские",Nick Jr
+#EXTINF:-1 group-title="Детские" tvg-id="Nick Jr." tvg-logo="http://i124.fastpic.org/big/2024/0928/72/aa8187ae0b48f61549ed9807c9a1d172.png" group-title="Детские",Nick Jr
 http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
-#EXTINF:-1 tvg-id="NickToons" tvg-logo="http://i124.fastpic.org/big/2024/0928/bb/479b65bd328d30688dfd618ebb445fbb.png" group-title="Детские",Nicktoons
+#EXTINF:-1 group-title="Детские" tvg-id="NickToons" tvg-logo="http://i124.fastpic.org/big/2024/0928/bb/479b65bd328d30688dfd618ebb445fbb.png" group-title="Детские",Nicktoons
 http://212.102.38.45/live/test_nicktoons/playlist.m3u8
 
+
+#EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c07bebc6bb25d79ec5394a9e94c077726f6a4f5dc2f7c248cd615c5187878e3e262acf697b98ab84f0d51b4c2ac8c/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч!  Премьер 
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"} 
+https://mhd116.iptv2022.com/p/s90ULxsLKaFKbFGg2L4Vig,1770930026/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер  
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
