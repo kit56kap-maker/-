@@ -382,7 +382,7 @@ http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
 https://mhd116.iptv2022.com/p/s90ULxsLKaFKbFGg2L4Vig,1770930026/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
-http://timeshift.arpinet.am/110/mpegts
+http://85.88.175.48:2020/udp/239.4.10.83:2020
 #EXTINF:-1 group-title="Спортивные",Конный мир HD
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 tvg-id="belarus5" group-title="Спортивные", Беларусь 5 HD
