@@ -503,7 +503,7 @@ http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
 http://212.102.38.45/live/test_nicktoons/playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c07bebc6bb25d79ec5394a9e94c077726f6a4f5dc2f7c248cd615c5187878e3e262acf697b98ab84f0d51b4c2ac8c/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч!  Премьер 
+#EXTINF:-1 group-title="Спортивные",Матч Премьер HD
 http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI2IDc6NTY6MjUgQU0maGFzaF92YWx1ZT1Pa0JyRmRjVkFZMGgyU0xHdzUzQWtBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер  
