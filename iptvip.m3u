@@ -495,7 +495,7 @@ http://88.216.112.114/Cartoonito/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="jimjam"   audio-track="rus", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru"   audio-track="rus", Nickelodeon
-https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
+http://ott.server-iptv.live/504/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="Детские" tvg-id="Nick Jr." tvg-logo="http://i124.fastpic.org/big/2024/0928/72/aa8187ae0b48f61549ed9807c9a1d172.png" group-title="Детские",Nick Jr
 http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
