@@ -504,7 +504,7 @@ http://212.102.38.45/live/test_nicktoons/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI2IDc6NTY6MjUgQU0maGFzaF92YWx1ZT1Pa0JyRmRjVkFZMGgyU0xHdzUzQWtBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8
 
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер  
 https://mhd116.iptv2022.com/p/72dH1XNNKvkvpdo_BqV32w,1771102821/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
