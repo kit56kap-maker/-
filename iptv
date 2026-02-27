@@ -380,7 +380,7 @@ https://mhd116.iptv2022.com/p/s90ULxsLKaFKbFGg2L4Vig,1770930026/streaming/match_
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
-https://mhd116.iptv2022.com/p/s90ULxsLKaFKbFGg2L4Vig,1770930026/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
 http://85.88.175.48:2020/udp/239.4.10.83:2020
 #EXTINF:-1 group-title="Спортивные",Конный мир HD
