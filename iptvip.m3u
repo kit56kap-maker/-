@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://epg.admuspeh.my" http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml""
+#EXTM3U url-tvg="https://programtv.ru/xmltv.xml.gz" http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml""
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 24.02.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.03.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://pic.rutube.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg" ,t.me/tviptviptv инфо группа
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
@@ -505,7 +505,7 @@ http://212.102.38.45/live/test_nicktoons/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8
+https://mhd116.iptv2022.com/p/jLT-fqF1psuLEZ_SLb8CeA,1773090023/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1  group-title="Спортивные"  audio-track="rus",  Матч!  Премьер  
 http://tv.lamro.workers.dev/?ID=3737
