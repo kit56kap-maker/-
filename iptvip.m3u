@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://programtv.ru/xmltv.xml.gz; https://iptvx.one/EPG; http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 20.03.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 24.03.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://github.com/kit56kap-maker/-/blob/main/Screenshot_20260210-170112_1.jpg" ,t.me/tviptviptv инфо группа
 https://github.com/kit56kap-maker/-/blob/4d5b6ca3496f9c69a5e1f9e487a05cd61f6c58a4/clideo_editor_68ff3c3ef9cd40a0a0ae5bd7dbf0a1e0.mp4
