@@ -507,7 +507,7 @@ http://212.102.38.45/live/test_nicktoons/playlist.m3u8
 
 #EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c04b7b66bb25d7cec5791a9ed49077323f6a0f0dc2b792488d315c11d787ce6e266a9f693bc8abc4a0d55b1c2a889/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч Премьер  
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}  
-https://mhd116.iptv2022.com/p/shB1IU8PkftgekkEVON9nQ,1774731624/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8  
+https://mhd116.iptv2022.com/p/XPYd-AQuEsa4CCfNLLI1_Q,1774818027/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8  
 
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
 http://85.88.175.48:2020/udp/239.4.10.83:2020
