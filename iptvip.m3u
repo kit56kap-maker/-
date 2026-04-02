@@ -699,7 +699,7 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
 http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1  group-title="Познавательны",MM  ОТКРЫТИЯ 
+#EXTINF:-1  group-title="Познавательные",MM  ОТКРЫТИЯ 
 https://tinyurl.com/aleks-u-romki-57/19415/index.m3u8
 #EXTINF:-1  tvg-id="dorama" group-title="Познавательные"  audio-track="rus", Дорама
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
