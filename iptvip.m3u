@@ -535,7 +535,6 @@ https://mhd116.iptv2022.com/p/XAKfJ4jYHbo-tDddC3oeSw,1776286822/streaming/match_
 #EXTINF:-1 group-title="Спортивные",Матч Премьер HD
 http://89.218.32.179:18000/play/a01o
 
-http://85.88.175.48:2020/udp/239.4.10.83:2020
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
