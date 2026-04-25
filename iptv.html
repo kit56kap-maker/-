@@ -1,0 +1,399 @@
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>📺 Simple IPTV Player</title>
+    <style>
+        :root {
+            --bg: #1a1a2e;
+            --panel: #16213e;
+            --accent: #e94560;
+            --accent2: #0f3460;
+            --text: #eee;
+            --playing: #4caf84;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            height: 100dvh;
+            overflow: hidden;
+            user-select: none;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        /* Шапка */
+        .header {
+            background: var(--panel);
+            padding: 10px 16px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+            position: relative;
+            z-index: 10;
+            flex-shrink: 0;
+        }
+        .header span {
+            color: var(--accent);
+        }
+
+        /* Плеер */
+        .player-container {
+            position: relative;
+            width: 100%;
+            background: #000;
+            flex-shrink: 0;
+            aspect-ratio: 16 / 9;
+            max-height: 45vh;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.8);
+            z-index: 5;
+        }
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            display: block;
+        }
+        .player-placeholder {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #555;
+            font-size: 48px;
+            pointer-events: none;
+        }
+        .player-placeholder.hidden {
+            display: none;
+        }
+
+        /* Статус */
+        .status-bar {
+            background: var(--panel);
+            padding: 8px 16px;
+            font-size: 13px;
+            color: #aaa;
+            text-align: center;
+            border-bottom: 1px solid var(--accent2);
+            flex-shrink: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .status-bar .playing {
+            color: var(--playing);
+            font-weight: bold;
+        }
+
+        /* Список */
+        .list-container {
+            flex: 1;
+            overflow-y: auto;
+            background: #111827;
+            -webkit-overflow-scrolling: touch;
+        }
+        .channel-item {
+            display: flex;
+            align-items: center;
+            padding: 14px 16px;
+            border-bottom: 1px solid #1f2937;
+            cursor: pointer;
+            transition: background 0.2s;
+            gap: 12px;
+        }
+        .channel-item:active {
+            background: var(--accent2);
+        }
+        .channel-item.active {
+            background: var(--accent2);
+            border-left: 4px solid var(--accent);
+        }
+        .channel-icon {
+            font-size: 28px;
+            flex-shrink: 0;
+        }
+        .channel-info {
+            flex: 1;
+            min-width: 0;
+        }
+        .channel-name {
+            font-size: 15px;
+            font-weight: 500;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .channel-url {
+            font-size: 11px;
+            color: #777;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .playing-indicator {
+            color: var(--playing);
+            font-size: 12px;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        /* Кнопки */
+        .controls {
+            display: flex;
+            gap: 8px;
+            padding: 10px 16px;
+            background: var(--panel);
+            flex-shrink: 0;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        button {
+            background: var(--accent2);
+            color: var(--text);
+            border: none;
+            padding: 10px 16px;
+            border-radius: 25px;
+            font-size: 14px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        button:active {
+            background: var(--accent);
+            transform: scale(0.95);
+        }
+        button.primary {
+            background: var(--accent);
+            font-weight: bold;
+        }
+        #fileInput {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">📺 <span>Simple IPTV</span> Player</div>
+
+    <!-- Плеер -->
+    <div class="player-container" id="playerContainer">
+        <video id="videoPlayer" controls playsinline></video>
+        <div class="player-placeholder" id="placeholder">📡</div>
+    </div>
+
+    <!-- Статус -->
+    <div class="status-bar" id="statusBar">
+        Выберите канал из списка
+    </div>
+
+    <!-- Список каналов -->
+    <div class="list-container" id="channelList"></div>
+
+    <!-- Кнопки -->
+    <div class="controls">
+        <button onclick="prevChannel()">⏮ Пред</button>
+        <button onclick="nextChannel()">След ⏭</button>
+        <button onclick="document.getElementById('fileInput').click()">📂 Загрузить M3U</button>
+        <button class="primary" onclick="loadDefault()">🔄 По умолчанию</button>
+    </div>
+
+    <input type="file" id="fileInput" accept=".m3u,.m3u8,.txt" onchange="loadM3UFile(this)">
+
+    <script>
+        // ==================== ДАННЫЕ ====================
+        const defaultChannels = [
+            { name: "🏛 Первый канал", url: "https://cdn.adhb.online/1tv/index.m3u8" },
+            { name: "🎬 Кинопоказ", url: "https://cdn.adhb.online/kinopokaz/index.m3u8" },
+            { name: "🎵 Муз ТВ", url: "https://cdn.adhb.online/muztv/index.m3u8" },
+            { name: "🐻 Карусель", url: "https://cdn.adhb.online/karusel/index.m3u8" },
+            { name: "🌍 RT News", url: "https://rt-news.secure.footprint.net/1103.m3u8" },
+            { name: "📺 Россия 1", url: "https://cdn.adhb.online/russia1/index.m3u8" },
+            { name: "⭐ НТВ", url: "https://cdn.adhb.online/ntv/index.m3u8" },
+            { name: "🎯 ТНТ", url: "https://cdn.adhb.online/tnt/index.m3u8" },
+            { name: "🎬 СТС", url: "https://cdn.adhb.online/ctc/index.m3u8" },
+            { name: "🌙 Пятница", url: "https://cdn.adhb.online/friday/index.m3u8" },
+        ];
+
+        let channels = [...defaultChannels];
+        let currentIndex = -1;
+
+        // ==================== DOM ЭЛЕМЕНТЫ ====================
+        const videoPlayer = document.getElementById('videoPlayer');
+        const placeholder = document.getElementById('placeholder');
+        const channelList = document.getElementById('channelList');
+        const statusBar = document.getElementById('statusBar');
+
+        // ==================== ОТРИСОВКА СПИСКА ====================
+        function renderList() {
+            channelList.innerHTML = '';
+            channels.forEach((ch, index) => {
+                const div = document.createElement('div');
+                div.className = 'channel-item' + (index === currentIndex ? ' active' : '');
+                div.innerHTML = `
+                    <div class="channel-icon">${ch.name.slice(0,2)}</div>
+                    <div class="channel-info">
+                        <div class="channel-name">${ch.name}</div>
+                        <div class="channel-url">${ch.url.slice(0,50)}...</div>
+                    </div>
+                    ${index === currentIndex ? '<div class="playing-indicator">▶ LIVE</div>' : ''}
+                `;
+                div.addEventListener('click', () => playChannel(index));
+                channelList.appendChild(div);
+            });
+        }
+
+        // ==================== ВОСПРОИЗВЕДЕНИЕ ====================
+        function playChannel(index) {
+            if (index < 0 || index >= channels.length) return;
+
+            currentIndex = index;
+            const ch = channels[index];
+
+            // Обновляем плеер
+            videoPlayer.src = ch.url;
+            videoPlayer.load();
+            videoPlayer.play().catch(e => {
+                console.warn('Автовоспроизведение:', e);
+            });
+
+            // Скрываем плейсхолдер
+            placeholder.classList.add('hidden');
+
+            // Обновляем статус
+            statusBar.innerHTML = `<span class="playing">▶ Сейчас:</span> ${ch.name}`;
+
+            // Обновляем подсветку списка
+            renderList();
+
+            // Скроллим к активному каналу
+            const items = channelList.children;
+            if (items[index]) {
+                items[index].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+        }
+
+        function nextChannel() {
+            if (channels.length === 0) return;
+            const next = (currentIndex + 1) % channels.length;
+            playChannel(next);
+        }
+
+        function prevChannel() {
+            if (channels.length === 0) return;
+            const prev = (currentIndex - 1 + channels.length) % channels.length;
+            playChannel(prev);
+        }
+
+        function loadDefault() {
+            channels = [...defaultChannels];
+            currentIndex = -1;
+            videoPlayer.src = '';
+            placeholder.classList.remove('hidden');
+            statusBar.textContent = `📂 Загружено ${channels.length} каналов (по умолчанию)`;
+            renderList();
+        }
+
+        // ==================== ЗАГРУЗКА M3U ====================
+        function loadM3UFile(input) {
+            const file = input.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const text = e.target.result;
+                const parsed = parseM3U(text);
+                if (parsed.length > 0) {
+                    channels = parsed;
+                    currentIndex = -1;
+                    videoPlayer.src = '';
+                    placeholder.classList.remove('hidden');
+                    statusBar.textContent = `📂 Загружено: ${parsed.length} каналов из файла`;
+                    renderList();
+                    alert(`✅ Загружено ${parsed.length} каналов!`);
+                } else {
+                    alert('❌ Каналы не найдены в файле');
+                }
+            };
+            reader.readAsText(file);
+            input.value = ''; // Сброс
+        }
+
+        function parseM3U(text) {
+            const lines = text.split(/\r?\n/);
+            const result = [];
+            let i = 0;
+            while (i < lines.length) {
+                const line = lines[i].trim();
+                if (line.startsWith('#EXTINF:')) {
+                    let name = 'Неизвестный канал';
+                    if (line.includes(',')) {
+                        name = line.split(',')[1].trim();
+                        // Убираем лишние теги в названии
+                        name = name.replace(/#[^\s]*/g, '').trim();
+                    }
+                    i++;
+                    if (i < lines.length) {
+                        const url = lines[i].trim();
+                        if (url && !url.startsWith('#')) {
+                            result.push({ name: name || 'Канал', url: url });
+                        }
+                    }
+                }
+                i++;
+            }
+            return result;
+        }
+
+        // ==================== СОБЫТИЯ ПЛЕЕРА ====================
+        videoPlayer.addEventListener('play', () => {
+            placeholder.classList.add('hidden');
+        });
+
+        videoPlayer.addEventListener('ended', () => {
+            // Автоматически переключаем на следующий
+            nextChannel();
+        });
+
+        videoPlayer.addEventListener('error', () => {
+            statusBar.innerHTML = '<span style="color:#e94560;">⚠ Ошибка воспроизведения</span>';
+            console.error('Ошибка видео:', videoPlayer.error);
+        });
+
+        // Управление жестами / клавишами
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') nextChannel();
+            if (e.key === 'ArrowLeft') prevChannel();
+            if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+                e.preventDefault();
+                if (e.key === 'ArrowUp') prevChannel();
+                else nextChannel();
+            }
+        });
+
+        // ==================== ИНИЦИАЛИЗАЦИЯ ====================
+        renderList();
+        statusBar.textContent = `📂 Готово: ${channels.length} каналов | ← → на клавиатуре`;
+    </script>
+</body>
+</html>
+```
