@@ -1167,7 +1167,7 @@ http://145.239.5.177/314/index.m3u8
 #----------------------------кино и сериалы------------------------------------#
 
 #EXTINF:-1  group-title="Кино и сериалы",  VHS-ка 
-http://46.53.208.4:80/live/1123.m3u8
+https://telluri.ru/video/vj/1123.m3u8
 #EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air
