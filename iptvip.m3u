@@ -513,6 +513,14 @@ http://89.218.32.179:18000/play/a01o
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","dev
 http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI2IDY6NTQ6MDMgQU0maGFzaF92YWx1ZT1mT0MwcHhuQWQrT2RDbGY1a25sQXdRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
+#EXTINF:-1  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png",  Матч!  Премьер  Hsd 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (SmartTV;  Linux;  Tizen  6.0) 
+https://mhd128.iptv2022.com/p/aQBCg42Tl7xKBv8Jvn1dIQ,1778136632/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10043/logo_256_1655386875.png",  360 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0  (SmartTV;  Linux;  Tizen  6.0)  
+https://mhd128.iptv2022.com/p/FKTVc3blxmPBOoy1TMxwBg,1778136632/streaming/360sd/324/1/index.m3u8
+
+
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 tvg-id="belarus5" group-title="Спортивные", Беларусь 5 HD
