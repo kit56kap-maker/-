@@ -2,19 +2,20 @@
 
 #---------------------------------------------Эфирные-----------------------------------#
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 10.05.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 11.05.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png" ,t.me/tviptviptv инфо группа
 https://github.com/kit56kap-maker/-/blob/main/mega-creator%20(1).png
 #EXTINF:-1 tvg-id="rvy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-
 #EXTINF:-1 tvg-id="rvy"tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=EszZooOOUFArpEr5fxA-9g&e=2069025305&scheme=https
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1  group-title="Тест"  tvg-id="rossia1"  tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png", catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" РОССИЯ  1  HD  
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
 #EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Эфирные",Матч! ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -39,10 +40,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="http://rafail1982.uz/logo/russia.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Россия К HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные", Россия 24 HD
+#EXTINF:-1 tvg-id="rossia-24"catchup="append" group-title="Эфирные", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -62,7 +63,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77",ТНТ4 HD
+#EXTINF:-1 group-title="Эфирные" tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"channelId="77",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",РЕН ТВ
@@ -71,7 +72,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Пятница
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="Спас" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244",Спас
+#EXTINF:-1 group-title="Эфирные" tvg-id="Спас" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" channelId="244",Спас
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_SPAS_KRR/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -368,10 +369,20 @@ http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Детские",Рыжий
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="Детские",Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540 ,Чип и Дейл
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540 ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="Детские",Nick Jr 
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8 
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="Детские",Nickelodeon 
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="Детские",Nickelodeon 
+https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="Детские",NICKTOONS 
+https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="Детские",Nicktoons 
+https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8 
 #EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
@@ -3871,8 +3882,7 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
 #EXTINF:-1  group-title="Тест"  catchup="append"  catchup-days="3"  catchup-source="?offset=-${offset}&utcstart=${timestamp}",  РОССИЯ  1  
 #EXTVLCOPT:http-user-agent=KizugTV  
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="rossia1"  tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png",  РОССИЯ  1  HD  
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
+
 #EXTINF:-1  group-title="Тест"  tvg-id="rtr-planeta-eu",  RTR  PLANETA 
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603 
 #EXTINF:-1  group-title="Тест"  tvg-id="rtr-planeta-azia",  РТР  Планета  Азия 
@@ -4151,16 +4161,7 @@ https://fl1003.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://iptvx.one/picons/multimania-lv.png",  Мультимания 
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Тест",Nick  Jr 
-https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест",Nickelodeon 
-https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест",Nickelodeon 
-https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8 
-#EXTINF:-1  group-title="Тест",NICKTOONS 
-https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест",Nicktoons 
-https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8 
+
 
 #EXTINF:-1  group-title="Тест",CARTOON  NETWORK 
 http://176.118.197.101/Cartoon_Network/index.m3u8 
