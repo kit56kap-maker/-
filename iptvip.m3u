@@ -2,7 +2,7 @@
 
 #---------------------------------------------Эфирные-----------------------------------#
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 05.05.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 10.05.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png" ,t.me/tviptviptv инфо группа
 https://github.com/kit56kap-maker/-/blob/main/mega-creator%20(1).png
@@ -10,8 +10,7 @@ https://github.com/kit56kap-maker/-/blob/main/mega-creator%20(1).png
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:-1 tvg-id="rvy"tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
-group-title="Эфирные",Первый канал HD
+#EXTINF:-1 tvg-id="rvy"tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=EszZooOOUFArpEr5fxA-9g&e=2069025305&scheme=https
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
