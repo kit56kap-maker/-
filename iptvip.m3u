@@ -988,6 +988,8 @@ http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #----------------------------позновательные------------------------------------#
 #----------------------------кино и сериалы------------------------------------#
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FAN.png" group-title="Кино и сериалы",FAN HD
+http://cdn.kubteltv.workers.dev/?ID=354
 #EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="rus-hualiang-tv" group-title="Кино и сериалы", Китай ТВ
