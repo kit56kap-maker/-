@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://programtv.ru/xmltv.xml.gz;
-url-tvg="https://iptvx.one/EPG; 
-url-tvg="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="https://programtv.ru/xmltv.xml.gz; https://iptvx.one/EPG; http://epg.it999.ru/epg.xml.gz"
 
 #---------------------------------------------Эфирные-----------------------------------#
 
