@@ -491,6 +491,22 @@ http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8?token=default?token=test
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}   
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 
+
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="7",Матч! Премьер HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/220/index.m3u8
+
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/2414/index.m3u8
+
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="0",Матч! Премьер HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/10021/index.m3u8
+
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="7",Матч! Премьер
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/531/index.m3u8
+
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/9246/index.m3u8
+
 #EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c04b7b66bb25d7cec5791a9ed49077323f6a0f0dc2b792488d315c11d787ce6e266a9f693bc8abc4a0d55b1c2a889/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч Премьер HD  
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}   
 http://stream.mcquack.net/193/index.m3u8
