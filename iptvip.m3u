@@ -388,48 +388,37 @@ https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8 
 
  
-#EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kids
-http://31.148.48.15/STS_Kids_HD/index.m3u8
-
 
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Детские",Рыжий
-http://31.148.48.15/Rizhiy/index.m3u8
+
 #EXTINF:-1 group-title="Детские", 2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнце
-https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="Детские",Рыжий HD
-http://31.148.48.15/Rizhiy/index.m3u8
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="Детские",Рыжий HD
+
 
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Детские",Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="http://i.imgur.com/i2AP0hp.png" group-title="Детские",Ani
-http://31148.rafail1982.uz/Ani/index.m3u8
+
+
 #EXTINF:-1 tvg-id="RadostMoya.ru" tvg-logo="http://i.postimg.cc/DZpc0rK0/radostmoya.png" group-title="Детские",Радость моя HD
 http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="http://i.imgur.com/acrU2IE.png" group-title="Детские",Ryzhiy
-http://31148.rafail1982.uz/Rizhiy/index.m3u8
-#EXTINF:-1 tvg-id="STSkids.ru" tvg-logo="http://i.imgur.com/o9kLpAL.png" group-title="Детские",STS kids
-http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-logo="http://i.imgur.com/HCefxaK.png" group-title="Детские",Solnce
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Чип и Дейл
+#EXTINF:-1 group-title="Детские",Чип и Дейл 1
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="162",СТС Kidss
-http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="2na2" ,  2x2
-http://193.25.8.59:8000/2x2
-#EXTINF:-1 group-title="Детские" tvg-id="ani" ,Ani
-http://31.148.48.15:80/Ani/index.m3u8
+
+
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics" ,Cartoon Classics
 http://193.25.8.59:8000/Avto24
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-classics"  tvg-logo="http://1lot.tv/ch/9665.png" ,Cartoon Classics
