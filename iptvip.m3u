@@ -2,7 +2,7 @@
 
 #-Эфирные--------------------------------------------Эфирные-----------------------------------#
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 23.08.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 03.09.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png" ,t.me/tviptviptv инфо группа
 https://github.com/kit56kap-maker/-/blob/main/mega-creator%20(1).png
@@ -15,9 +15,7 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
+ 
 
 #EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Эфирные",Матч! ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -40,14 +38,11 @@ http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="http://rafail1982.uz/logo/russia.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Россия К HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="rossia-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 tvg-id="rossia-24"catchup="append" group-title="Эфирные", Россия 24 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -419,8 +414,6 @@ http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские" tvg-id="tiji"   tvg-name="Tiji",Tiji
 http://45.145.32.13:20440/tiji/index.m3u8?token=test
 
-#EXTINF:-1 group-title="Детские" tvg-id="mama" ,Мама
-http://31.148.48.15:80/Mama/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские" tvg-id="solnce" ,Солнце
