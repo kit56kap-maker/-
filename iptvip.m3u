@@ -4385,7 +4385,7 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id897_MSKSG-PVR-1--Prodvizhenie/04/pls
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-id="neizvestnaya-rosia"  tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png",  Неизвестная  Россия  
 https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqG
-
+#-test 1-------------------------------------------
 #EXTINF:-1  group-title="TEST  ⓵"  tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV  RU  Rock  HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1  group-title="TEST  ⓵"  tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV  Rock 
@@ -4645,38 +4645,16 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="TEST  ⓵",Шансон ТВ
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="TEST  ⓵ и сериалы",.black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="TEST  ⓵ и сериалы" ,312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="TEST  ⓵ и сериалы",Amedia 2
-https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="TEST  ⓵ и сериалы" ,Amedia Hit
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="TEST  ⓵ и сериалы" ,Amedia Premium HD
-http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="TEST  ⓵ и сериалы" ,Bollywood HD
-http://93.84.115.174:10181/foxlifehd
-#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="TEST  ⓵ и сериалы" ,Cinema
-http://93.84.115.174:10181/cinema
-#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="TEST  ⓵ и сериалы",FlixSnip
-https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
-#EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="TEST  ⓵ и сериалы" ,HollywooD
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="TEST  ⓵ и сериалы" ,HollywooD HD
-https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
-#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="TEST  ⓵ и сериалы",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="TEST  ⓵ и сериалы" ,Viju TV1000
-http://93.84.115.174:10181/tv1000
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="TEST  ⓵ и сериалы" ,Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="TEST  ⓵ и сериалы" ,Viju+ serial
-https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="TEST  ⓵ и сериалы" ,Еврокино
+
+#-test 1 serial-------
+
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино" ,Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="TEST  ⓵ и сериалы" ,Ретро
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кино" ,Ретро
 http://176.118.197.101/Retro/index.m3u8
+
+#---------------------------------------------
+
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="TEST  ⓵ и сериалы (Российские)" ,КиноСезон
@@ -4687,30 +4665,26 @@ http://176.118.197.101/Komediya/index.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="TEST  ⓵ и сериалы (Российские)" ,НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group-title="TEST  ⓵ и сериалы (Российские)",Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Победа
-http://93.84.115.174:10181/pobeda
+
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Русский детектив
 http://46.32.176.50/russkiydetektiv/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Русский роман
 http://46.32.176.50/russkiyroman/index.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://iptvx.one/picons/smotrim-100-lubov.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Смотрим 100% Любовь
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Смотрим 100% Мужское
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+
+#--TEST  ⓵ и сериалы (Российские)------------------------------------------
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="TEST  ⓵ Online" ,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="TEST  ⓵ Online" ,Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="TEST  ⓵ Online" ,LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="TEST  ⓵ Online" ,Pro100
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="TEST  ⓵ Online" ,Смотрим (Кино и сериалы)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#-----
+
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные" ,Animal Planet HD
 http://93.84.115.174:10181/animalplanethd
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="Познавательные" ,Galaxy
