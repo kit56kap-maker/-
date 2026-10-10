@@ -381,10 +381,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="boomerang" ,Cartoonito SD
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="gulli-girl"   tvg-name="Gulli girl",Gulli Girl
-http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
-#EXTINF:-1 group-title="Детские" tvg-id="tiji"   tvg-name="Tiji",Tiji
-http://45.145.32.13:20440/tiji/index.m3u8?token=test
+
 #EXTINF:-1 group-title="Детские" tvg-id="solnce" ,Солнце
 http://5.188.221.43:8080/play/disney
 #EXTINF:-1 group-title="Детские" tvg-id="solnce"  tvg-logo="http://1lot.tv/ch/1312.png" ,СОЛНЦЕ FD
@@ -414,16 +411,8 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c04b7b66bb25d7cec5791a9ed49077323f6a0f0dc2b792488d315c11d787ce6e266a9f693bc8abc4a0d55b1c2a889/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч Премьер   
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}   
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="7",Матч! Премьер HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/220/index.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/2414/index.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="0",Матч! Премьер HD 50
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/10021/index.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="7",Матч! Премьер
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/531/index.m3u8
-#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/9246/index.m3u8
+
+
 #EXTINF:-1  tvg-id="10227"  catchup="default"  group-title="Спортивные"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png"  catchup-source="https://hlsarchive.iptv2022.com/f7960c04b7b66bb25d7cec5791a9ed49077323f6a0f0dc2b792488d315c11d787ce6e266a9f693bc8abc4a0d55b1c2a889/index-${start}-${offset}.m3u8"  catchup-days="168",  Матч Премьер HD  
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}   
 http://stream.mcquack.net/193/index.m3u8
@@ -729,8 +718,7 @@ http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #-кино и сериалы---------------------------кино и сериалы------------------------------------#
 
 
-#EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Кино и сериалы",Твоё ТВ HD
@@ -741,12 +729,8 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="Кино и сериалы",Кино ТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",312 Кино SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",312 ТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-logo="http://i.imgur.com/uuzuvD0.png" group-title="Кино и сериалы",City Eden KinoAction
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cityeden.catcast.tv/content/41333/index.m3u8
