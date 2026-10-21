@@ -2,7 +2,7 @@
 
 #-Эфирные--------------------------------------------Эфирные-----------------------------------#
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 11.10.2026г🔅🔅🔅
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 21.10.2026г🔅🔅🔅
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png" ,t.me/tviptviptv инфо группа
 https://github.com/kit56kap-maker/-/blob/main/mega-creator%20(1).png
@@ -7706,110 +7706,26 @@ https://yta.unitedteleports.tv/hls/YTA/720-HD/YTA-720SCTE35.m3u8
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_cinema"  tvg-logo="https://psv4.userapi.com/s/v1/d2/lTFibtCm47weiSKkyMvKI56qrXXEtNeJ74GoWMKASZ-G-dH5O5JlfAc6-mFYNMrjX7ABxLp-MRQ_tT-tM_ftlvNviTTXYtne6cTTf2kg-TZN7JADxlUlVd-Fy5Ri2iIHoRmDrAR0yE84/image_1.jpg",Кинолаффка 
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https 
-#EXTINF:-1  group-title="Тест",Cinema 
-http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",DetectiveJam 
-https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw  
-#EXTINF:-1  group-title="Тест",FlixSnip  
-http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Kinojam  1  HD 
-http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw  
-#EXTINF:-1  group-title="Тест",Kinojam  2  HD 
-http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw  
-#EXTINF:-1  group-title="Тест",KION  Хит  
-https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Russian  Extreme  HD 
-http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Scream 
-http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Блокбастер  HD 
-http://stream-msk-01.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://s38.ucoz.net/video/chnl/s42242109.jpg",Триколор  Боевики  HD 
-https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.kino-teatr.ru/movie/posters/big/8/8/131088.jpg",Комиссар  Рекс 
-https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Время 
-http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw  
-#EXTINF:-1  group-title="Тест",День  Победы  HD 
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Дом  Кино 
-http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Дом  Кино  Премиум  HD 
-http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Дорама  HD 
-http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Кинеко  HD 
-https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Кинеко  
-https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Душевное  HD  
-http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",  SILK  WAY  CINEMA 
-https://stream-msk-19.ottgoods.ru/dtv/id1070_MSKSG-PVR-1--SilkWay_Cinema_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_cinema"  tvg-logo="https://kino-static.tricolor.ru/media/v2/3eea1e40-2685-46e7-8bc8-f8f8b26e48cd",  ПАЛЕНШЕЕВЫ  
-https://stream-msk-17.ottgoods.ru/dtv/id1000_MSKSG-PVR-1--Kinozal_16/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_cinema"  tvg-logo="https://kino-static.tricolor.ru/media/v2/156d5ecc-3a59-46e7-8eee-21ba8facd85c",  ОПЕРА:  ХРОНИКИ  УБОЙНОГО  ОТДЕЛА 
-https://stream-msk-20.ottgoods.ru/dtv/id999_MSKSG-PVR-1--Kinozal_15/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_cinema"  tvg-logo="https://kino-static.tricolor.ru/media/v2/2e6e4116-447f-49b0-b765-b66d109beb48",  СВАТЬИ  
-https://stream-msk-20.ottgoods.ru/dtv/id998_MSKSG-PVR-1--Kinozal_14/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw 
-#EXTINF:-1  group-title="Тест",Start  Air 
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8  
-#EXTINF:-1  group-title="Тест",  Start  World 
-https://telluri.ru/video/vod/9011.m3u8 
-#EXTINF:-1  group-title="Тест",FX 1
-http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест",  Любимое  Кино 
-http://178.163.2.151:4022/udp/234.0.0.102:2000 
 #EXTINF:-1  group-title="Тест",SHOT  TV  HD 
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER 
-#EXTINF:-1  group-title="Тест",Star  Family 
-https://jekalich.github.io/smtk/channels/star-family.m3u8 
-#EXTINF:-1  group-title="Тест",Start  World 
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8 
-#EXTINF:-1  group-title="Тест",VIJU  TV1000  romantica 
-https://telluri.ru/video/vj/3111.m3u8 
-#EXTINF:-1  group-title="Тест",viju+  Comedy  HD 
-https://jekalich.github.io/smtk/channels/vip-comedy.m3u8 
-#EXTINF:-1  group-title="Тест",Viju+  Megahit  HD 
-https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8 
- 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png"  catchup="append"  catchup-days="3"  catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый  канал 
 #EXTVLCOPT:http-user-agent=KizugTV 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8 
-#EXTINF:-1  group-title="Тест",  ПЕРВЫЙ  КАНАЛ  HD 
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEiYTIESDO57cjDxl6rt9ozcsid2uuOMrRg&s"  ,  Первый  канал  Европа 
 #EXTVLCOPT:http-user-agent=KizugTV 
 https://streaming.thestream.cyou/live/210.m3u8  
-#EXTINF:-1  group-title="Тест",  Первый  канал  Евразия 
-http://37.46.49.14:18010/play/a08p/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-csi.png",Первый  канал.  Всемирная  сеть  (СНГ) 
-http://217.154.10.99:2020/channel/163f5ca9/index.m3u8?q=ac8328a8c05870646c45caa253710a85 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png",Первый  канал.  Всемирная  сеть  HD  (Европа) 
-https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="pervy+4",  Первый  канал  (+4) 
 #EXTVLCOPT:http-user-agent=KizugTV 
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8 
 #EXTINF:-1  group-title="Тест"  catchup="append"  catchup-days="3"  catchup-source="?offset=-${offset}&utcstart=${timestamp}",  РОССИЯ  1  
 #EXTVLCOPT:http-user-agent=KizugTV  
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8  
-
-#EXTINF:-1  group-title="Тест"  tvg-id="rtr-planeta-eu",  RTR  PLANETA 
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603 
-#EXTINF:-1  group-title="Тест"  tvg-id="rtr-planeta-azia",  РТР  Планета  Азия 
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363 
-#EXTINF:-1  group-title="Тест",  РОССИЯ  КУЛЬТУРА 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="prnk-tv",  Первый  Российский  Национальный  канал 
 #EXTVLCOPT:http-user-agent=KizugTV 
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="prnk-tv",  Первый  Российский  Национальный  канал  HD  
-#EXTINF:-1  group-title="Тест"  tvg-id="match-tv",  Матч! 
-http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="ntv",  НТВ 
-https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
 #EXTINF:-1  group-title="Тест"  tvg-id="ntv",  НТВ  HD 
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8 
+
 #EXTINF:-1  group-title="Тест"  tvg-id="ntv-style",  НТВ  СТИЛЬ
 #EXTVLCOPT:http-user-agent=KizugTV 
 https://cdn.ntv.ru:443/th_style/playlist.m3u8
@@ -7822,47 +7738,32 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://iptvx.one/picons/ntv-serial.png",  НТВ  СЕРИАЛ 
 #EXTVLCOPT:http-user-agent=KizugTV 
 http://cdn2.ntv.ru/th_serial/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",НТВ  МИР 
-http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест",  ПЯТЫЙ  КАНАЛ 
-https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 #EXTINF:-1  group-title="Тест"  tvg-id="5kanal-ru-pl2"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_International_%282023%29.png/revision/latest?cb=20231224110541&path-prefix=ru",Пятый  канал  Int. 
 http://178.124.153.123:44400/5kanal 
 #EXTINF:-1  group-title="Тест"  tvg-id="8kanal-ru",  8  канал  Россия  
 https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.ts.m3u8 
-#EXTINF:-1  Тест"  tvg-id="8kanal-eu",  8  канал  Европа 
+
+#EXTINF:-1  Тест1"  tvg-id="8kanal-eu",  8  канал  Европа 
 https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://iptvx.one/picons/otr.png",  ОТР 
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
+
+  
 #EXTINF:-1  group-title="Тест",  ТВЦ 
 #EXTVLCOPT:http-user-agent=KizugTV  
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="ТВЦ",  ТВ  Центр  HD 
-https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/REN_TV_Logo_2014.svg/600px-REN_TV_Logo_2014.svg.png",  РЕН  ТВ 
 http://5.188.221.43:8080/play/ren-tv  
-#EXTINF:-1  group-title="Тест"  tvg-id="rentv",  Рен  ТВ  HD 
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
 #EXTINF:-1  group-title="Тест",РЕН  ТВ  International 
 http://178.134.1.158:8081/RENTV/index.m3u8 
-#EXTINF:-1  group-title="Тест",  СТС  HD 
-http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
 #EXTINF:-1  group-title="Тест",  СТС  International 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows  NT  10.0;  Win64;  x64)  AppleWebKit/537.36  (KHTML,  like  Gecko)  Chrome/146.0.0.0  Safari/537.36 
 http://178.134.1.158:8081/CTC/index.m3u8?token=test 
 #EXTINF:-1  group-title="Тест",  Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="ДОМАШНИЙ",  Домашний  HD  
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/500px-%D0%A2V3_logo_2023.svg.png",  ТВ3 
 http://31.131.141.195:8000/play/a002/index.m3u8 
-#EXTINF:-1  group-title="Тест",ТВ3  HD 
-https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1  group-title="Тест"  tvg-name="Пятница!",  ПЯТНИЦА!  HD  
-https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  ПЯТНИЦА!  International 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0  (Windows  NT  10.0;  Win64;  x64)  AppleWebKit/537.36  (KHTML,  like  Gecko)  Chrome/146.0.0.0  Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=friday 
+
+ 
 #EXTINF:-1  group-title="Тест",  Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-id="ЗВЕЗДА",  Звезда  HD 
@@ -7871,23 +7772,19 @@ http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8  
 #EXTINF:-1  group-title="Тест"  tvg-id="zvezda-plus",  Звезда  Плюс  HD 
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="МИР",  МИР  HD  
-https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
+
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="mir-kz",  МИР  international  
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8 
 #EXTINF:-1  group-title="Тест"  catchup="append"  catchup-days="3"  catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
 #EXTVLCOPT:http-user-agent=KizugTV  
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://federal.tv/i/tnt.png",  ТНТ  HD 
-http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест" ,ТНТ  INTERNATIONAL 
-http://46.53.208.4:80/live/5120.m3u8 
-#EXTINF:-1  group-title="Тест",  Муз  ТВ  HD
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8 
+
+ 
+  
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://i.ibb.co/HF9DnTx/logo-new.png",  Общественная  служба  новостей  
 https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://static-iptv2021.cdnvideo.ru/572aecd6-static/channel/23059/logo_256_1707734135.png",Too  Much  Business  HD 
-http://92.63.106.41/24hp/stream.php?id=8858 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo=  tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",  Общественная  служба  новостей  HD 
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="News  Front"  tvg-id="no_epg_news"  tvg-logo="http://i123.fastpic.org/big/2024/0804/f2/3224533c0eaac600270e7f33513b67f2.png",  News  Front 
@@ -7898,15 +7795,7 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8  
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://i.ibb.co/68KNtzS/image-30.png"  tvg-id="no_epg",  ТАСС 
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8 
-#EXTINF:-1  group-title="Тест" ,RTVI  
-http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="rbk",  РБК  
-http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="rbk",  РБК  HD  
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8 
-#EXTINF:-1  group-title="Тест",  Россия  24 
-#EXTVLCOPT:http-user-agent=KizugTV 
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8 
+  
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://i.ibb.co/FqRbB9G/Obkom-TV.jpg",  Обком  
 http://omsk-kprf.ru/hls/stream.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="ldpr-tv"  tvg-logo="https://data.cyclowiki.org/images/4/4d/Ldpr-tv.png",  ЛДПР  ТВ 
@@ -7917,14 +7806,8 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="solovjinypomiot"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e0/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%A2%D0%92_%28%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%29.png/revision/latest/scale-to-width-down/1000?cb=20220318072307&path-prefix=ru",Новороссия  ТВ  (Донецк)  
 http://31.131.139.253:9002/novoros/index.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="solovjinypomiot",  СОЛОВЬЁВLIVE 
-https://stream-msk-15.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="rtd-ru",  RT  Д 
-https://stream-msk-01.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-name="Известия"  tvg-logo="https://toplogos.ru/images/logo-iz.png",  Известия 
-https://stream-msk-01.ott.tricolor.tv/dtv/id919_MSKSG-PVR-1--Izvestiya/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест",  Известия  HD  
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8  
+ 
+   
 #EXTINF:-1  group-title="Тест"  tvg-id="rzhd-tv",  РЖД  ТВ 
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/yp85zbS/RZHD-TV.png"  tvg-id="rzhd-tv",  РЖД  ТВ  HD
@@ -7944,32 +7827,12 @@ http://iptv.crimea.net:8787
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://static.wikia.nocookie.net/faketvchannels/images/c/c4/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F433_20240820140137.png/revision/latest/scale-to-width-down/250?cb=20240830113155&path-prefix=ru",  RTN 
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6002  
-#EXTINF:-1  group-title="Тест",  Москва  24 
-https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
+
 #EXTINF:-1  group-title="Тест",  Про  бизнес 
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="Tv  Brics",  Tv  Brics  russian 
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/34/Euronews_2022_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20230202105747&path-prefix=ru",  EURO  NEWS 
-http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Кавказ  24 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Сибирь  24 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Восток  24 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1  group-title="Тест" ,Запад  24  
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Башкортостан  24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Урал  24 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Нижний  Новгород  24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1  group-title="Тест" ,Арктика  24 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8  
-#EXTINF:-1  group-title="Тест" ,Мир  24 
-http://45.145.32.13:20440/mir_24/index.m3u8?token=test
+ 
 #EXTINF:-1  group-title="Тест" ,Эхо  ТВ  24 
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8  
 #EXTINF:-1  group-title="Тест" ,Мордовия  24 
@@ -7988,106 +7851,40 @@ http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_radio"  tvg-logo="https://radiopotok.ru/f/station/512/962.png",  Радио  Спутник  (Веб-камера) 
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.postimg.cc/NFR7YhFQ/vestifm.png",Вести  ФМ 
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173 
-#EXTINF:-1  group-title="Тест",9  канал  (Израиль) 
-http://tinyurl.com/TvZaTak31/ORYpTuESTi/cnb0y9n3633wb3wnppri4wg6? 
-#EXTINF:-1  group-title="Тест",OstWest
-http://tinyurl.com/TvZaTak37/OstWest/video.m3u8?token=freeportal&token=deooleg 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png",  Wion  News 
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",  CNN  International 
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png",  Bloomberg  TV  eu 
 https://bloomberg.com/media-manifest/streams/eu.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png",  Bloomberg  TV  us 
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8 
 #EXTINF:-1  group-title="Новости"  tvg-id="no_epg_news"  tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png",  Newsmax  TV 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-name="RT"  tvg-logo="https://i.ibb.co/Z8pz7k4/image-39.png",  RT  News  
-http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_news"  tvg-logo="https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A=w600-h300-pc0xffffff-pd",  DW  Russian  (ИНОАГЕНТ) 
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="Настоящее  время"  tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее  время  (ИНОАГЕНТ)  VPN 
 https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="Настоящее  время"  tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее  Время  HD  (ИНОАГЕНТ)  VPN 
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",  Царьград 
-https://salam-khb-rtk-d115.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/11aX47ONsirji1TNLge2uQ/stream/genetta-313.m9.rutube.ru/oGZ42GBgRDbnzb11dk_0EQ/1776165877/91815da4edb167b5bd617bae490e57da/1080p_stream.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/svoboda.png",Svoboda 
-http://91.228.35.249:8001/1:0:16:65:2fa8:13e:820000:0:0:0: 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://dl.dropbox.com/scl/fi/ogv0ekjjnw9ixt4y6mowe/2025-04-05-002814.png?rlkey=ziyvi89fv39mp5vcbnn068o67&dl=0",Svoboda  News 
-http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://dl.dropbox.com/scl/fi/ly3x7mxz82mtbeoqe667j/2025-04-05-002253.png?rlkey=nyudoqdmb849zz442xemmue7s&dl=0",Гордон  Live 
-http://91.228.35.249:8001/1:0:16:67:2FA8:13E:820000:0:0:0 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/russfuture.png",Russia's  Future
-http://91.228.35.249:8001/1:0:16:68:2fa8:13e:820000:0:0:0: 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/eqtv.png",eQtv 
-http://91.228.35.249:8001/1:0:16:72:2FA8:13E:820000:0:0:0  
-#EXTINF:-1 tvg-id="no_epg_mult"  group-title="Тест"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3a/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB_%D0%9C%D0%B0%D0%BB%D1%8B%D1%88_%28%D1%81_24_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2026_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B4%D0%BE_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%29_%28%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F_%D0%B2_%D1%8D%D1%84%D0%B8%D1%80%D0%B5%29.jpg/revision/latest?cb=20260324153037&path-prefix=ru",  Канал  Малыш 
-https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8 
-#EXTINF:-1  group-title="Тест",  Умка 
-http://46.53.208.4:80/live/9488.m3u8 
-#EXTINF:-1  group-title="Тест",  Умка 
-http://tinyurl.com/TvvZaTak/9488-req_5k_v5.m3u8?|User-Agent=http-user-agent=Lavf53.32.100 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/animetv.png",Аниме  ТВ  HD 
-http://92.63.106.41/24hp/stream.php?id=8854 
+
 #EXTINF:-1  tvg-id="no_epg_mult"  group-title="Тест"  tvg-logo="https://jtx-online.ru/randomlogo/36.png",Jetix  Online 
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png"  tvg-id="no_epg_mult",  IPTVPLAY  МультСказки  HD 
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://tmsearch.onlinepatent.ru/images/840/840adaf1-5bea-41c8-902c-96ef43d81f97.jpg"  tvg-id="no_epg_cinema",  Кинозал  Tрикoлop 
-https://stream-msk-01.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://grizly.club/uploads/posts/2022-12/1670789337_grizly-club-p-prostokvashino-png-17.png"  tvg-id="no_epg_mult",  ПРОСТОКВАШИНО 
-https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://igora.ru/netcat_files/310/2282/1636194858_20_papik_pro_p_smeshariki_logotip_foto_20.png",  СМЕШАРИКИ 
-https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://federal.tv/i/sovmult.png"  tvg-id="no_epg_mult",  Советские  Мультяшки 
-https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  Советские  мультфильмы 
-http://46.53.208.4:80/live/3007.m3u8
-#EXTINF:-1  group-title="Тест",  СУББОТА!  
-http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",О! 
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",Лёва 
-http://46.53.208.4:80/live/2424.m3u8 
-#EXTINF:-1  group-title="Тест",Лёва  HD 
-http://tinyurl.com/TvvZaTak/2424-req_offset_28000000-req_window_0-3k_v5.m3u8 
+
+
 #EXTINF:-1  tvg-id="no_epg_mult"  group-title="Тест"  tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500",  Ключайка 
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1  group-title="Тест",  BABY  TIME 
 http://tinyurl.com/TvZaTak007/baby_time/video.m3u8 
 
-#EXTINF:-1  group-title="Тест",  КИНОМУЛЬТ 
-http://46.53.208.4:80/live/157.m3u8 
-#EXTINF:-1  group-title="Тест",  МУЛЬТ  и  МУЗЫКА 
-http://31.148.48.15:80/Multimuzika/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_cinema"  tvg-logo="https://www.russkiymir.ru/upload/medialibrary/fac/fac0c725fda3ecab8df3bfe5f03f81f6.png",  Ералаш 
-https://fl1003.bozztv.com/ushba8/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/8115.png",  Ералаш 
-https://fl1003.bozztv.com/ushba10/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://psv4.userapi.com/s/v1/d/ni1BD2ijvTRmtAamNLRqy-YRmFoTjl9e9_t7WGcLmCmH8lXbCeoqNDALvtLkkFaKGZbQUKVm9K_6iYD0AEUK7Qmz2XQG9AhcJOe5S1rGD-ycFqsmtdeE0g/kidsfm.png"  tvg-id="no_epg_music",  KIDS  FM 
-#EXTVLCOPT:http-user-agent=KizugTV
-https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://iptvx.one/picons/multimania-lv.png",  Мультимания 
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1  group-title="Тест",CARTOON  NETWORK 
-http://176.118.197.101/Cartoon_Network/index.m3u8 
-#EXTINF:-1  group-title="Тест",  МУЛЬТИЛАНДИЯ 
-http://46.53.208.4:80/live/5108.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://iptvx.one/picons/ryzhy.png",  Рыжий
-http://31.148.48.15/Rizhiy/index.m3u8 
 #EXTINF:-1  group-title="Тест",  Капитан  Фантастика 
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8 
 #EXTINF:-1  group-title="Тест",TIJI 
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1  group-title="Тест",TIJI 
-https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="smaylik-tv",Смайл 
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
 #EXTINF:-1  group-title="Тест",  Gulli  Girl 
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Тест" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",  Карусель 
@@ -8105,34 +7902,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1  group-title="Тест"  catchup="append"  catchup-days="3"  catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="karusel-pl8",  Карусель  (+8) 
 #EXTVLCOPT:http-user-agent=KizugTV 
 http://s14553.cdn.ngenix.net/hls/CH_R01_KARUSEL_SLIN/variant.m3u8?version=2
-#EXTINF:-1  group-title="Тест",  Cartoon  Classics
-http://46.53.208.4:80/live/1303.m3u8 
-#EXTINF:-1  group-title="Тест",  CARTOON  CLASSICS 
-http://193.25.8.59:8000/Avto24 
-#EXTINF:-1  group-title="Тест"  tvg-id="jimjam"  tvg-logo="https://iptvx.one/picons/jimjam.png",JimJam 
-http://158.160.149.81:8080/269/index.m3u8 
+
+ 
 #EXTINF:-1  group-title="Тест",  Тооку 
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",  Солнце
-http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="mama",Мама 
-http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  2x2  
-https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png",  Мамонтёнок 
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png",  Пингвин  Лоло 
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест",  СТС  Kids 
-http://46.53.208.4:80/live/1448.m3u8 
-#EXTINF:-1  group-title="Тест",  Мульт  HD 
-http://46.53.208.4:80/live/6007.m3u8 
-#EXTINF:-1  group-title="Тест",  Уникум 
-http://46.53.208.4:80/live/5512.m3u8 
-#EXTINF:-1  group-title="Тест",  Детский  Мир 
-http://193.25.8.59:8005/detmir
-#EXTINF:-1  group-title="Тест",  СуперГерои 
-http://185.46.16.239:8000/National_Geographic_HD 
+
+ 
 #EXTINF:-1  group-title="Тест",  Ani 
 http://185.46.16.239:8000/Ani
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",  Чип  и  Дейл  (ТЕСТ) 
@@ -8141,22 +7916,17 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://papik.pro/grafic/uploads/posts/2023-04/1681638968_papik-pro-p-tom-i-dzherri-logotip-vektor-29.png",Tom  And  Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",  MM  Tom&Jerry 
-http://s.only4.tv/7131/index.m3u8?token=zoCHqBtVEo 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://toppng.com/uploads/preview/tom-and-jerry-cartoon-logo-11530958739hnbggs7vy2.png",Том  и  Джерри 
-http://s.only4.tv/8116/video.m3u8?token=zoCHqBtVEo 
+
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg",BIGS  BUGS  BUNNY 
 https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwasG09brFBqG1iPgM4K_0sZozlENZI67eQ&s",  Mr.Bean  Cartoon 
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc7fgOzI6ZPVFjFNmO4mtw&e=2065265033&scheme=https 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT960dq9ksZeKgpm8LSr9DR4of7os5cNeVq6A&s",  Fox  Kids 
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8 
-#EXTINF:-1  group-title="Тест",  DUCK  TV 
-http://46.53.208.4:80/live/1492.m3u8 
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="FON  music"  tvg-logo="https://ntvplus.tv/files/image/11/31/697/n6w.png",  FON  music  HD 
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mixmtv.ru/gallery/MIX-M-1-ts1694597892.png",  MIXM  TV 
-http://89.179.247.144/hls/mixm.m3u8 
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-m2o.jpg"  tvg-id="no_epg_music",  M2O  TV 
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5SyKRz1xKUNCLHcK-Gey2668fT7iLkmGKQ&s"  tvg-id="no_epg_music",  Mafia 
@@ -8173,8 +7943,7 @@ https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=U2
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=vpFz3v_5Gi71_uh6ZlXhOQ&e=2068506969&scheme=https
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aaxeuPPcFKkzuPuVyD6TQWFpG_qhiDuyxw&s",Record  Megamix 
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.cableman.ru/sites/default/files/live_music_channel.jpg",  LIVE  music  channel 
-http://46.53.208.4:80/live/6028.m3u8 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d2/6Ym-yFg8niONhugBxG32Iuj2IOu8R8G3KRg6Fo-vuo2sVT-rpMsvKXHj8jh7vkVozjUeAahnQreAN7Lj3PeDEgnReL-uksAQPkvw3xzsLJcPEJZe-iIfJ4SrYLTQ-0GUpHpTuxMtwe_Q/deepKizug.jpg",  KizugTV  Deep  Music 
 https://glb.bozztv.com/glb/ushba66/index.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d2/PTw4AB3uiZDIQTS2J16z3ARlJX7yr0iqaod1muaYhDZj0VQqgLM3coCPFjPQROY7yyjE6Hvm-2Ss84cDGtyYz0pBJEWVD7407O9-foUk21pmrK3_85yEo8bNksetDY2i-690_zDPvKRX/AsianGirls.jpg",  KizugTV  Asian  Girls 
@@ -8189,67 +7958,31 @@ https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/
 https://fl1003.bozztv.com/ushba75/tracks-v1a1/mono.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://play-lh.googleusercontent.com/4yauEnzQ08vtwop-DXBPb9ZPjeG4jdVPBAq5wJmFO7YQs-vvNfv9nqULp53kQpByNVC9"  tvg-id="no_epg_music",Music  TV  Nostalgia 
 http://217.79.184.52/Nostalgia/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KQBzUEuo86ADTjwn333iY1WMeXIj47XSiQ&s"  tvg-id="no_epg_music",  Play  Ibiza 
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ee89eb82-af22-4e93-b190-e319f234fbcf/4.m3u8 
-#EXTINF:-1  group-title="Тест",  Bridge  TV 
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="bridge-tv-shlager",  Bridge  TV  Шлягер 
-http://193.25.8.59:8000/mtv
-#EXTINF:-1  group-title="Тест",  Bridge  TV  Русский  хит 
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  Bridge  TV  Hits 
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png",Bridge  TV  Classic 
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png",  Bridge  TV  Rock 
-http://89.218.32.179:18000/play/a02i 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EazL8w7.png"  group-title="Тест",BRIDGE  Deluxe 
-http://46.53.208.4:80/live/110.m3u8 
+
+ 
 #EXTINF:-1  group-title="Тест",  Восток  ТВ 
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=_KZnG9H0Z9zMPnRbTdVG8w&e=2067776620&scheme=https 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3if3C2R02u1t_WzapDgpPzuMsp9GUmqAiw&s",Восток  ТВ 
 http://185.57.68.33/233/mpegts 
-#EXTINF:-1  group-title="Тест",  Russian  MusicBox  HD 
-https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://mboxtv.ru/images/logo-4.png"  tvg-id="no_epg_music",  Russian  Musicbox  Gold 
-https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1  group-title="Тест",  Жара  HD 
-https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  О2ТВ 
-https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-name="О2ТВ",  О2ТВ  HD 
-http://77.232.131.211/O2TV/index.m3u8 
-#EXTINF:-1  group-title="Тест",  Музыка  Первого  
-https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест"  logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна  FM  
-https://stream-msk-10.ott.tricolor.tv/dtv/id384_MSKSG-PVR-1--T_r_strana_fm/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ytimg.com/vi/4ei_hSH1hFA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5RCshw0_fmrFWr_lsGKHE62XkeQ",Душевные  песни 
-https://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест"  tvg-name="Шансон-TB",  Шансон  ТВ 
-https://stream-msk-13.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/lbqM3K2.png"  tvg-id="no_epg_music",  Радио  Шансон 
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/GLc4qrc.png",  Europa  Plus  TV 
-https://stream-msk-13.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="europa-plus-tv"  tvg-logo="https://iptvx.one/picons/europa-plus-tv.png",Europa  Plus  TV  HD  
-http://31.148.48.15/Europa_Plus_HD/index.m3u8 
+
+  
 #EXTINF:-1  group-title="Тест",  1HD  music  television 
 http://176.118.197.101/1HD/index.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_radio"  tvg-logo="https://variant.fm/images/novoe.gif",  Новое  Радио  ТВ 
 http://hls-video01.cdnvideo.ru/video01/video01_1080.sdp/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",RU.TV 
-https://stream-msk-01.ott.tricolor.tv/dtv/id924_MSKSG-PVR-1--RUTV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&s",  Urban  PRO  DJ 
-https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.scdn.co/image/ab67616d0000b273ae3527cf7089f3d15ce77541",  Dance  Hits  80 
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-1-international_1.jpg?itok=5gKs0-It"  tvg-id="no_epg_music",  Музыка  1  International 
-http://kino-1.catcast.tv/content/37745/index.m3u8 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-2-international.jpg?itok=yf1d-Afx"  tvg-id="no_epg_music",  Музыка  2  International
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://ritsatv.ru/files/poster/medium/901145.webp"  tvg-id="no_epg_music",  Музыка  Кино  International 
-http://kino-1.catcast.tv/content/37739/index.m3u8 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-name="МУЗ  ТВ"  tvg-logo="https://i.imgur.com/BtqrHmz.png",  МУЗ  ТВ 
 #EXTVLCOPT:http-user-agent=KizugTV 
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8 
@@ -8265,85 +7998,30 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
 #EXTINF:-1  group-title="Тест",  МУЗ  ТВ  (+7) 
 #EXTVLCOPT:http-user-agent=KizugTV 
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Zona_Latina_%281997%29.png/revision/latest?cb=20190808202235&path-prefix=es"  tvg-id="no_epg_music",Latin  Zone  TV  
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?KizugTV 
+
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://iconlogovector.com/uploads/images/2024/07/sm-668d60ed8751b-DStv.webp",  DSTV 
 http://46.249.95.140:8081/hls/data.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/S4SQmWmK/M2ROCK.png",  M2ROCK  
-http://49.0.64.96:8007/M2ROCK 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d/hI-P3tKUHpwBMI6n0yLxUU2qYOjoBjrtV5vj72a8gD5iAc5WCKJs5jcBIeubPaGL7y-Xo0PkGO8hVZHVW92RAWnZLmcR4pRh1viNkcGRM1eWesHTl6bYTw/m4jazz.jpg",  M4JAZZ 
-http://49.0.64.96:8007/M4JAZZ 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d/IKUR9alKYkm2UOXDdXv4Geu32_q6bP3ylq9wlTK1eZDJcuhPExZPFdfgPoj8yrhhCAQKNernZ9rmVDHB0hWSRR0xM1NRMAmzoOXiNAQ_IhSm2895BbbHuQ/Screenshot_2.jpg",  M6COUNTRY 
-http://49.0.64.96:8007/M6COUNTRY  
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1V3swnuFI7WLi1cMScNEBgvORwj6DWXt1Ag&s"  tvg-id="no_epg_music",  Impact  TV  Dance 
-https://online.tvimpact.live/hls/dancetv.m3u8 
+ 
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/fBeaJoS.png"  tvg-id="no_epg_music",  Muzangala  TV 
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.shutterstock.com/image-vector/puq-letter-logo-design-on-260nw-2188086545.jpg"  tvg-id="no_epg_music",  Music  PUQ 
-https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ_0iEePHpUzGNY8Rp71rcJuE8H44AFHHH9A&s"  tvg-id="no_epg_music",  TotalMusic  80s 
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/VwUiSVF.png"  tvg-id="no_epg_music",Canal  5  Pico  Truncado 
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+ 
+
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music",CHD-TV  Rock 
 http://194.26.229.213/chdtv_rock/index.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://smotret.tv/images/chd-tv-ru-rock.jpg"  tvg-id="no_epg_music",CHD-TV  RU  Rock  HD 
 http://194.26.229.213/chdtv_ru_rock/index.m3u8 
-#EXTINF:-1  group-title="Тест",  Now  ROCK 
-#EXTVLCOPT:http-user-agent=KizugTV 
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",  Now  70's 
-#EXTVLCOPT:http-user-agent=KizugTV  
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8 
-#EXTINF:-1  group-title="Тест",  Now  80's 
-#EXTVLCOPT:http-user-agent=KizugTV 
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8 
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kaJ5zxX9XvE_RsS4NDPCxlcQNYwnQJhjoQ&s"  tvg-id="no_epg_music",Bblack!  Africa 
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/BBLACK_2012.png/revision/latest?cb=20150309112255"  tvg-id="no_epg_music",Bblack! 
-http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/NN0cSbz.png"  tvg-id="no_epg_music",4  You  Tv
-https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://nm-tv.ru/wp-content/uploads/2022/08/site_obl.jpg"  tvg-id="no_epg_music",  NM  Television  
-https://tv.a21network.ru/stream/40650/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="ocko-cz",Óčko 
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="ocko-expres-cz",  Óčko  Expres 
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="ocko-star-cz",  Óčko  Star  
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PwD57d1f3pAVVI-sXSDq1Povn7AJt_aBAA&s",YAAAS!  
-https://jmp2.uk/stvp-GB340000289
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS89CfZ2J2NUtBQcySn_3sFLjEL7aLmBiKQA&s",XITE 
-https://xite-rakuten.amagi.tv/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png"  tvg-name="XITE  80s  Flashback"  channel-id="SamsungTVPlus-USBB320000647",  XITE  80s  Flashback 
-https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png"  tvg-name="XITE  90s  Throwback"  channel-id="SamsungTVPlus-USBB3200007AK",XITE  90s  Throwback 
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png"  tvg-name="XITE  Celebrates"  channel-id="SamsungTVPlus-USBD350003932",XITE  Celebrates 
-https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png"  tvg-name="XITE  Hits"  channel-id="SamsungTVPlus-USBD3300004RH",XITE  Hits 
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png"  tvg-name="XITE  Just  Chill"  channel-id="SamsungTVPlus-USBB2300003JZ",XITE  Just  Chill 
-https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png"  tvg-name="XITE  Nuevo  Latino"  channel-id="SamsungTVPlus-USBD3300007PB",XITE  Nuevo  Latino 
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png"  tvg-name="XITE  Rock  x  Metal"  channel-id="SamsungTVPlus-USBB2300004KV",XITE  Rock  x  Metal 
-https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png"  tvg-name="XITE  Siempre  Latino"  channel-id="SamsungTVPlus-USBD3300010L9",XITE  Siempre  Latino 
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/15/Vevo_RB_Channel_1080x1080_Square_v2-bg6ynv4w.png",Vevo  Hip-Hop  &  RnB 
-https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-pop.png?$296_164_PNG$",  Vevo  Pop  (Australia) 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-pop.png?$296_164_PNG$",  Vevo  Pop 
-https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png"  tvg-name="Vevo  Retro  Rock"  channel-id="SamsungTVPlus-USBD3000145P",Vevo  Retro  Rock 
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oVSB_KDuZF22WEa-j-s9Y3-l8KmvGolZ_A&s"  tvg-id="no_epg_music",  Vevo  Pop  Germany 
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5d5yAyW_SmNjcgPenaBzPwzTaJpFbzpaCg&s"  tvg-id="no_epg_music",  Vevo  Schlager  Pop 
-https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8 
+http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist.m3u8   
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV 
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV  #DeepHouseDistrict 
@@ -8352,76 +8030,26 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV  #HouseFloor 
 #EXTVLCOPT:http-user-agent=KizugTV 
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV  #Mainstage 
-#EXTVLCOPT:http-user-agent=KizugTV  
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV  #Mnml
-#EXTVLCOPT:http-user-agent=KizugTV 
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8 
+  
+  
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV  #TechnoWarehouse 
 #EXTVLCOPT:http-user-agent=KizugTV 
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/F4DjNSJb/dtv.jpg"  tvg-id="no_epg_music",  Dance  TV  #TechHouseTerrace  
 #EXTVLCOPT:http-user-agent=KizugTV 
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/Ll6GlqY.png"  tvg-id="no_epg_music",  V2BEAT 
-http://de1se01.v2beat.live/playlist.m3u8?kizugtv.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/oxkkWH5.png"  tvg-id="no_epg_music",Balle  Balle 
-https://mcncdndigital.com/balleballetv/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/IRyFTWq.png"  tvg-id="no_epg_music",  Stingray  Qello  Concerts 
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/FBgu8yB.png"  tvg-id="no_epg_music",  Stingray  Classic  Rock  
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Тест",  Stingray  Classica 
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://provider-static.plex.tv/epg/cms/production/7cb1e091-a317-483a-88f7-0438246233fe/11810_MMS_Plex-TV_Vertical-Art_2000x3000_V01.jpg"  tvg-id="no_epg_music",  Movie  Music  by  Stingray 
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Stingray_Djazz.svg"  tvg-id="no_epg_music",  Stingray  DJAZZ
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png"  tvg-id="no_epg_music",  Stingray  Easy  Listening 
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/lgpIwId.png"  tvg-id="no_epg_music",  Stingray  Hit  List 
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/PZhxyIT.png"  tvg-id="no_epg_music",  Stingray  Hot  Country 
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/9TLTLS3.png"  tvg-id="no_epg_music",Stingray  Karaoke 
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/H2ugC9L.png"  tvg-id="no_epg_music",  Stingray  Pop  Adult
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/jf5C9QF.png"  tvg-id="no_epg_music",  Stingray  Flashback  70s 
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/6E3wYrb.png"  tvg-id="no_epg_music",  Stingray  Remember  the  80s 
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/Tq3I0po.png"  tvg-id="no_epg_music",  Stingray  Nothin'  But  90s 
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/mt8ulVX.png"  tvg-id="no_epg_music",  Stingray  Rock  Alternative 
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png"  tvg-id="no_epg_music",  Stingray  Romance  Latino 
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/h1DsOzH.png"  tvg-id="no_epg_music",  Stingray  Smooth  Jazz 
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/ywAN923.png"  tvg-id="no_epg_music",  Stingray  The  Spa 
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/Os3kRRP.png"  tvg-id="no_epg_music",  Stingray  Today's  Latin  Pop 
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://kuasark.com/files/stations-logos/stingray-urban-beats.png"  tvg-id="no_epg_music",  Stingray  Urban  Beat 
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7-UwpXTOW-bBifgVWkEsgiUON5wzlEk5bg&s"  tvg-id="no_epg_music",  Baraza  Music  TV  Greek  Hits 
-http://eco.streams.ovh:8080/barazatv/tracks-v1a1/mono.m3u8  
+ 
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/HimuPPb.png"  tvg-id="no_epg_music",  Deluxe  Music 
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images.seeklogo.com/logo-png/48/2/deluxe-rap-logo-png_seeklogo-480086.png",  Deluxe  Rap  HD 
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png",DELUXE  DANCE 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music",  Deluxe  Deutshpop 
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?country=DE&vendor=samsung 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Hip_hop_tv_it.png"  tvg-id="no_epg_music",Hi  Hop  TV 
 http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2HUpDuuQe9GJF48zDduOUdAhDqztxmckI_w&s"  tvg-id="no_epg_music",  Nr1  Türk  
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg"  tvg-id="no_epg_music",  NUMBER  ONE  TÜRK  Ask 
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 
+
+ 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png"  tvg-id="no_epg_music",  NUMBER  ONE  TÜRK  DAMAR 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/QpPteBO.png"  tvg-id="no_epg_music",  POWER  DANCE  
@@ -8442,20 +8070,8 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/a5nW3HU.png"  tvg-id="no_epg_music",  Power  Türk  Taptaze 
 #EXTVLCOPT:http-user-agent=KizugTV
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://cdn-icons-png.flaticon.com/512/6819/6819428.png"  tvg-id="no_epg_music",7  YOU  &  ME 
-https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/0Dh1FJZ.png"  tvg-id="no_epg_music",  TopEstrada  TV 
-http://live.topestrada.com/live/topestrada/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://fill17.ru/wp-content/uploads/2024/06/tv-gracia.png",  Vive  la  Gracia  HD 
-https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://d32139y4w3ahij.cloudfront.net/wp-content/uploads/2021/02/LA-TOP-102.9.png"  tvg-id="no_epg_music",  La  Top  102.9  En  Vivo 
-https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.latop.hn/wp-content/uploads/2021/02/latop-tgu-200x138-1.png"  tvg-id="no_epg_music",  La  Top  107.7  En  Vivo 
-https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://station-images-prod.radio-assets.com/630/radionuta.png?version=796e091f7e01311aadb1fad0545ad7693c7b97eb"  tvg-id="no_epg_music",NUTA  TV 
-http://78.130.250.2:8023/play/a03r/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFiQC64YH2Hz2r6_oFQjgzStPn5hlTDIMhw&s"  tvg-id="no_epg_music",  NUTA  GOLD 
-http://tinyurl.com/TvZaTak01/a03q/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100 
+
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/pzxUE0O.png"  tvg-id="no_epg_music",  Super  TV 
 http://iptv.supertv.ro:8000/play/a001/index.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpax41f8o0GgDIfXywpNIrNjj1fMXSwTyO1A&s"  tvg-id="no_epg_music",Kronehit  tv 
@@ -8464,127 +8080,37 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/5XGDzksL/afrobeat.png"  tvg-id="no_epg_music",  Afrobeats 
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.salto.nl/wp-content/uploads/sites/4/2021/06/salto3poster.jpg"  tvg-id="no_epg_music",  BRASA  MUSIC
-#EXTVLCOPT:http-user-agent=KizugTV
-https://salto-streams.nl/hls/sotv1_high.m3u8
+
+
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_1 
 https://fl1003.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_2
-https://fl1003.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_3 
-https://fl1003.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_4 
-https://fl1003.bozztv.com/ushba33/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_5 
-https://fl1003.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_6 
-https://fl1003.bozztv.com/ushba6/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_7 
-https://fl1003.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8 
+ 
+
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  Music_8 
 https://fl1003.bozztv.com/ushba57/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCKK_duYJixhDaQQSER7IP5UjYUyeGcqEzQ&s",  Natural  Beat  Record 
-https://fl1003.bozztv.com/ushba63/tracks-v1a1/mono.m3u8 
+
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/V028tZr0/music-and-live-music-logo-with-neon-light-effect-vector-png-199406.jpg",  HalidonMusic  SD 
 https://fl1003.bozztv.com/ushba76/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/tral.png"  tvg-id="no_epg_music",  Trace  Latina 
-http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNV1HJ6lfm9Q9u8iK6EwWlNIPC1jlxooVCQ&s"  tvg-id="no_epg_music",  Trace  Latina 
-https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Trace_Toca.png"  tvg-id="no_epg_music",  TRACE  TOCA 
-http://145.239.5.177/210/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",  Trace  Urban 
-https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ytimg.com/vi/5o77N4sNCLI/maxresdefault.jpg",  Trace  Urban 
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://img1.wsimg.com/isteam/ip/11edb162-8e14-4098-971b-59cc4ec80e0b/logo-trace-brasil-01.png/:/cr=t:7.63%25,l:26.17%25,w:47.67%25,h:84.75%25/rs=w:365,h:365,cg:true,m"  tvg-id="no_epg_music",  Trace  Brazil 
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://africaorigin.net/upload/source/tracetvafrica.jpg",  TRACE  AFRICA 
-http://145.239.5.177/205/index.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/72/6music_alt.png/revision/latest?cb=20210812042913",6Music 
-http://145.239.5.177/320/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkpZ7uoLN_a6srfd7fxIF-paKp2bKz8pc5g&s",ALMA  LUSA 
-http://145.239.5.177/209/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music",Spirit  TV 
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music",V2BEAT 
-https://de1se01.v2beat.live/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIc28UeD0IqkRpRFCweyiveIL_kbvUXBdWQg&s"  tvg-id="no_epg_music",  Blues  TV 
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8 
+ 
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_music_logo_vignetta_2eqnxqmk.png"  tvg-id="no_epg_music",  Oxygen  Music 
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOvssMX943t9JX6PNIhXNYoGiX6X6xzPdTw&s",  Dance  FM 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.pinimg.com/736x/7e/c1/b8/7ec1b88db8493f5426d662878c90025f.jpg"  tvg-id="no_epg_music",  Activa  TV 
-https://streamtv.mediasector.es/hls/activatv/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4f/4fun.tv_%282004%29.png/revision/latest?cb=20140724151135&path-prefix=ru"  tvg-id="no_epg_music",  4FUN  TV 
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8 
+  
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOrDymjyJ732IhWZysHtul2w8oztogD6SEg&s"  tvg-id="no_epg_music",  Jugoton  TV 
 https://stream.cmctv.hr:49998/jugoton/live.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/IDJ_TV.svg/revision/latest?cb=20251024004733"  tvg-id="no_epg_music",  IDJ  TV 
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",VEVO  '70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",VEVO  '80s 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",VEVO  '90s 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9v7LJW0wfFmbQ7HjRMLBTVGumAp8Q1M6GA&s",VEVO  2K 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",VEVO  Retro  Rock 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIqTgSUucFH_wUVW6CXnjeqOzHKKxDTsVCg&s",VEVO  Pop
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9q5J7f0x97zzzGfYlStEk-5DrSH40pZYrA&s",VEVO  Country 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8 
+
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_UCCQ06AvEPZ0ogcL8oSw3lNLhFiGqXFh8PwqURaWokdb2bsxAfFBYmtJGUJdrlJYHI&usqp=CAU",Retro  Music  Television 
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4DzZIkOzvlLlFIpx0WSztAjjkTvyTo2yFg&s",Qwest  TV  Jazz  &  Beyond 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://qello.com/static/images/metadata/SiteImage.png",Qello  Concerts  by  Stingray 
-https://lotus.stingray.com/manifest/qello-qello001-montreal/plextv/master.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckMgjm54-SwNx-SsrPM2vj-zCtVeathHYps9lIm1WYg&s",Stingray  Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjjFvHA7v-LfNgHhpRwz2egSCjDY5cF58Xw&s",Stingray  Karaoke 
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://www.stingray.com/wp-content/uploads/2024/10/Stingray-Naturescape-Self-care-Sundays.jpg",Stingray  Naturescape
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/50a3ecdf-9e7c-4632-9480-193ffeb8650c.jpeg",Stingray  Holiday  Hits 
-https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg",Stingray  Hit  List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg",Stingray  Classic  Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg",Stingray  Rock  Alternative 
-https://lotus.stingray.com/manifest/ose-102ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg",Stingray  Pop  Adult 
-https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mediafile.galaxie.ca/data/000/111/505/000111505539",Stingray  Urban  Beat 
-https://lotus.stingray.com/manifest/ose-133ads-montreal/plextv/master.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg",Stingray  Hot  Country 
-https://lotus.stingray.com/manifest/ose-108ads-montreal/plextv/master.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416920",Stingray  Flashback  70s 
-https://lotus.stingray.com/manifest/ose-115ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831",Stingray  Remember  the  80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mediafile.galaxie.ca/data/000/155/867/000155867535",Stingray  Nothin'  But  90s 
-https://lotus.stingray.com/manifest/ose-142ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mediafile.galaxie.ca/data/000/155/863/000155863632",Stingray  Smooth  Jazz 
-https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://s3.klowdtv.net/herring/images/channels/stingrayMusicEasyListening/logo_big.png",Stingray  Easy  Listening 
-https://lotus.stingray.com/manifest/ose-137ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/600x337.webp?type=channelTile",Stingray  Soul  Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://mediafile.galaxie.ca/data/000/110/456/000110456009",Stingray  The  Spa 
-https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg",Stingray  Today's  Latin  Pop 
-https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-company-tv.jpg?itok=yiTJ6WMm"  tvg-id="no_epg_music",  Company  TV 
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i0.wp.com/www.sardunyareklam.org/wp-content/uploads/2018/12/kral-pop-tv-reklam.png?fit=253%2C156&ssl=1"  tvg-id="no_epg_music",  Kral  Pop  TV 
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/3YkfFXTb/images.png"  tvg-id="no_epg_music",  Atomic 
-https://atomic.streamnet.ro/atomictv.m3u8 
+ 
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Atomic_Academy_osb.png/revision/latest?cb=20230526072747"  tvg-id="no_epg_music",  Atomic  Academy  TV 
 https://atomic.streamnet.ro/academia.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png"  tvg-id="no_epg_music",  Video  Tour  Channel 
@@ -8593,176 +8119,60 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 http://213.163.114.23:25461/ipko/M8TATzJPXe/1 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d2/8WMVtfUihyCiHGh1hd-pC6ZpjcOPiDNUqeKV_FTRZEZhEWKbkFtzcuF3K8txB2wY7J_Eoxd4Codell7R6MB6ux8-j81kcKP-kJUONs7BggVXJCAUnaDENuM_vYiFrCQr3bet0D4WzSo8/blues_kizug.jpg",  KizugTV  Blues  music 
 https://fl1003.bozztv.com/ushba0/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/8jBb1VN/Screenshot-1.jpg"  tvg-id="no_epg_music",  Stingray  Today's  KPOP  (VPN) 
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8  
+
+  
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://image.winudf.com/v2/image1/aW8udG0ua3BvcC50dl9pY29uXzE2MDE2MzU0MzlfMDkx/icon.png?w=&fakeurl=1",  Kpop  TV  24 
 https://live.24hrkpop.com/hls/stream.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png",  K-POP  by  CJ  ENM  
-https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg_music"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20241105T032704SQUARE.png",  K-POP 
-https://jmp2.uk/stvp-FR3900001AC 
-#EXTINF:-1  group-title="Тест"  tvg-id="dtr"  tvg-logo="https://kino-stream.online/logo/logo.png"  tvg-id="no_epg",DTR  ZONA  1  (HD) 
-https://kino-stream.online/hls/DTRZONA1.m3u8 
+
+ 
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png",  Твоё  ТВ  -  Юмор 
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://static.tildacdn.com/tild6137-6531-4963-b232-343232333364/NIK-logo.png",  Новый  Игровой  Канал 
-http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8  
-#EXTINF:-1  group-title="Тест",  Народ  Всё  Видит 
-http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="tnt4"  tvg-logo="http://www.oreol.tv/img/tht4.jpg",  ТНТ4  HD 
-http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="sarafan"  ,  Сарафан  
-http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://kino-static.tricolor.ru/media/v2/2272fd2e-446c-4960-bfa2-7dd31b55a029",Клуб  юмора
-https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест",  КВН  ТВ  
-http://158.101.222.193:88/georgia_play.php?id=kvntv  
+
+  
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg"  tvg-id="no_epg",НТВ  Ты  супер!  
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8  
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png",  ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ  
 https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png",  ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ  2 
-https://30a-tv.com/feeds/720p/63.m3u8 
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://sun9-77.userapi.com/impg/SHJF8Y3fdvsJlgXf-ZVufeVPMnTr26jdOCwi1g/JRZBDGv4icA.jpg?size=800x450&quality=95&keep_aspect_ratio=1&background=000000&sign=ed00a59c010cb353fa2df18a6609a021&type=video_thumb"  tvg-id="no_epg",D-TV6 
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6 
-#EXTINF:-1  group-title="Тест"  tvg-id="gags-network",  Gags  Network 
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="gags-network",  Gags  Network 
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/On6ggLe.png",  Перец 
-http://46.53.208.4:80/live/971.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.imgur.com/On6ggLe.png",  Перец
-http://158.101.222.193:88/georgia_play.php?id=perec  
-#EXTINF:-1  group-title="Тест",  Че!  
-https://stream-msk-18.ott.tricolor.tv/dtv/id1044_MSKSG-PVR-1--CHE_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/VQLyshj/2.jpg",  Че!  (+2)  
-#EXTVLCOPT:http-user-agent=KizugTV  
-http://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://i.ibb.co/n6TMzb5/4.jpg",  Че!  (+4) 
-#EXTVLCOPT:http-user-agent=KizugTV 
-http://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://mt.media/upload/iblock/619/619b4d955a42abdc4ff53125b1ceeaad.png",  Анекдот  ТВ 
-http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1  group-title="Тест",  Плюс  Минус  16
-https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="womens-magazine",  Women's  Magazine 
-https://stream-msk-20.ott.tricolor.tv/dtv/id1020_MSKSG-PVR-1--WomensMagazine_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="U"  tvg-logo="http://www.oreol.tv/img/027_u.jpg",  Ю  ТВ  
-https://stream-msk-08.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
+
+ 
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="nostalgia"  tvg-logo="http://epg.it999.ru/img/783.png",  Ностальгия 
 http://176.118.197.101/Nostalgiya/index.m3u8 
-#EXTINF:-1  group-title="Тест",  TVM  Channel 
-http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест",  Калейдоскоп  ТВ 
-https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
+
+  
+ 
 #EXTINF:-1  group-title="Тест"  tvg-id="teledom",  Теледом  HD  
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://avatars.mds.yandex.net/get-yapic/43978/FDASnmS3H4aHTrxdR4kjaSg-1/orig",  GAMEPLAY 
-https://fl1003.bozztv.com/ushba31/tracks-v1a1/mono.m3u8  
+
+  
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://supergeekdesigns.com/cdn/shop/files/logo_2022_99112479-2c2a-4b76-b1b8-d7c345d72591_300x.png?v=1649069414",Unique  TV  Supergeek  
-http://pop.uniquetv.com.br/supergeek/tracks-v1a1/mono.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg",  Gameplay  трейлеры  
-https://fl1003.bozztv.com/ushba44/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://i.imgur.com/TOB9vmW.png",  AFV 
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://i.ibb.co/0pGZ1pW3/Screenshot-1.jpg",  Petsami  (Домашние  животные) 
-https://fl1004.bozztv.com/ushba11/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://i.ibb.co/hMzzf2r/Screenshot-1.png",  AMAZING  SHOW 
-http://49.0.64.96:8007/AMAZING  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/702_3bc5163aaf05103f8ed7270cd7536e12.png",  PetClub 
-https://glb.bozztv.com/glb/ushba20/index.m3u8  
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/American_Ninja_Warrior_Logo.jpg",  American  Ninja  Warrior 
-https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8 
+
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/mnau-tv.png",MNAU  TV  
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8 
 #EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://centergoroda.com/upload/iblock/fb8/8ggo08x454jp9flmutkcrtmxb06mdhh5/500_500-rkh.png",Столото  ТВ  
 http://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8 
-#EXTINF:-1  tvg-id="no_epg"  group-title="Тест"  tvg-logo="https://tmsearch.onlinepatent.ru/images/416/41695e86-981b-4774-8911-2a3fc4fd829c.jpg",  Дачная  жизнь  
-https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
+
+
 #EXTINF:-1  group-title="Тест"  tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/photo_2026-01-20_16-57-44-kopiya.png"  tvg-id="no_epg",  Первый  Туристический  Канал  HD  24/7 
 http://91.186.196.185/hls/hotels/stream.m3u8  
-#EXTINF:-1  group-title="Тест  HD  Cinema  4K 
-http://tinyurl.com/deoroleg/1042.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://kino-static.tricolor.ru/media/v2/c7b1aaa8-c7fc-4caa-9537-ff42d385bfbb"  tvg-id="no_epg",  ЖИЗНЬ  В  ДЕРЕВНЕ 
-https://stream-msk-19.ottgoods.ru/dtv/id1066_MSKSG-PVR-1--Kinozal_13/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест",  EP!C 
-http://46.53.208.4:80/live/171.m3u8 
-#EXTINF:-1  group-title="Тест",  Ep!c  
-http://193.25.8.59:8000/dtx  
-#EXTINF:-1  group-title="Тест" ,ULTRA  4K  EXTREME 
-http://46.53.208.4:80/live/1042.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://neoline.ru/upload/iblock/bbc/m3nw1ns5yqpdhzmieiom8373v3xu71f5.png"  tvg-id="no_epg",ОСТОРОЖНО  МОШЕННИКИ 
-https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  tvg-id="bobior"  group-title="Тест",  Бобёр 
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест",  Усадьба  
-http://193.25.8.59:8000/usadba  
-#EXTINF:-1  group-title="Тест  тема 
-http://live-3.otcnet.ru/nashatema/index.m3u8 
-#EXTINF:-1  group-title="Тест" ,Московский  образовательный 
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8  
-#EXTINF:-1  tvg-id="zagorodnaya-zhizn"  group-title="Тест" ,  Загородная  жизнь 
-http://185.57.68.33/40/mpegts  
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://img.catcast.tv/uploads/11082021/logos/40546-6113be283e1cb.jpg",  LAYM  GOLD  TV  
-https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c 
-#EXTINF:-1  tvg-id="zagorodny"  group-title="Тест",  Загородный
-http://stream-msk-04.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест"  tvg-id="zagorodny-int",  Загородный  Int  HD 
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест",  Светлое  ТВ  
-http://46.53.208.4:80/live/973.m3u8  
-#EXTINF:-1  group-title="Тест  медецинский  
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8  
-#EXTINF:-1  group-title="Тест",  МУЖСКОЙ  
-http://193.25.8.59:8000/muzhskoy  
-#EXTINF:-1  group-title="Тест" ,Мужской 
-http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="https://e7.pngegg.com/pngimages/386/732/png-clipart-airplane-aircraft-logo-airplane-blue-logo-thumbnail.png",  Авиакатастрофы 
-https://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://paideuma.tv/sites/default/files/logo_0_0.png",Paideuma  TV  
-https://paideuma.tv:1443/live/Channel2728/chunklist.m3u8  
-#EXTINF:-1  group-title="Тест" ,RTG  HD  
-http://46.53.208.4:80/live/1406.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="neizvestnaya-planeta",Неизвестная  планета 
-http://46.53.208.4:80/live/3005.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="neizvestnaya-planeta",Неизвестная  планета  HD  
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8  
+
+  
+  
 #EXTINF:-1  group-title="Тест",BIG  PLANET 
 http://185.184.233.178:5000/udp/225.1.2.170:1234 
-#EXTINF:-1  group-title="Тест",  РАТНИК  HD 
-https://stream-msk-18.ott.tricolor.tv/dtv/id1068_MSKSG-PVR-1--Ratnik_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
+
 #EXTINF:-1  group-title="Тест"  tvg-id="ЗНАНИЕ  ТВ",ЗНАНИЕ  ТВ  HD  
-https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://pngicon.ru/file/uploads/128_242.png",ЗНАНИЕ  ТВ 
-https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  Открытый  мир 
-http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="eda",  Еда 
-http://stream-msk-01.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1--Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест",  Еда  Премиум  Международный  
-http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8 
-#EXTINF:-1  group-title="Тест"  tvg-id="eda-hd",  FoodTime 
-http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow 
-#EXTINF:-1  group-title="Тест"  tvg-id="kuxnia-tv",  КУХНЯ  ТВ
-http://87.76.32.36:8001/kuhnya 
-#EXTINF:-1  group-title="Тест" ,Kulinar  TV  Show 
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-logo="https://tmsearch.onlinepatent.ru/images/d80/d804ba14-e0bf-457c-929a-0f4a0b189b78.jpg",Семейная  кухня
-https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow  
-#EXTINF:-1  group-title="Тест" ,Ключ 
-http://hls127.freeott.top:8080/Kluch/mono.m3u8  
-#EXTINF:-1  group-title="Тест",Ключ 
-http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8  
-#EXTINF:-1  group-title="Тест",Fun  Roads
-http://104.143.4.5:2080/funroads.m3u8 
+
 #EXTINF:-1  group-title="Тест"  tvg-id="kongresstv",  Конгресс  ТВ  HD 
 http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="prodvizhenie",  Продвижение 
-https://stream-msk-13.ott.tricolor.tv/dtv/id897_MSKSG-PVR-1--Prodvizhenie/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1  group-title="Тест"  tvg-id="no_epg"  tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg",  Магнат  ТВ 
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1  group-title="Тест"  tvg-id="neizvestnaya-rosia"  tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png",  Неизвестная  Россия  
-https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqG
+
+
+
 #-test 1-------------------------------------------
 #EXTINF:-1  group-title="TEST  ⓵"  tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV  RU  Rock  HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
@@ -9033,31 +8443,23 @@ http://176.118.197.101/Retro/index.m3u8
 
 #---------------------------------------------
 
-#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Дом Кино
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="сериалы (Российские)" ,Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="TEST  ⓵ и сериалы (Российские)" ,КиноСезон
+#EXTINF:-1 tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="сериалы (Российские)" ,КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Комедия
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title=" сериалы (Российские)" ,Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="TEST  ⓵ и сериалы (Российские)",НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="сериалы (Российские)",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="TEST  ⓵ и сериалы (Российские)" ,НТВ Хит
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="сериалы (Российские)" ,НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Русский детектив
-http://46.32.176.50/russkiydetektiv/index.m3u8
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Русский роман
-http://46.32.176.50/russkiyroman/index.m3u8
-
-#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="TEST  ⓵ и сериалы (Российские)" ,Советское кино
+#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title=" сериалы (Российские)" ,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 
 #--TEST  ⓵ и сериалы (Российские)------------------------------------------
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="TEST  ⓵ Online" ,Alpha Cinemaй
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="TEST  ⓵ Online" ,Alpha Moretimeй
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="TEST  ⓵ Online" ,Смотрим (Кино и сериалы)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
